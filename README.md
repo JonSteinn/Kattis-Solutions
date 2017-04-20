@@ -98,6 +98,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
 | [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
+| [Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find/C) |
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
