@@ -9,9 +9,9 @@ int fills(int n, int* array)
 
 int main()
 {
-    int* array = (int*)calloc(16, sizeof(int));     // With all values mapped to their halves
-    array[0] = 1;                                   // Empty filling
-    array[1] = 1;                                   // N=2 filling
+    int* array = (int*)calloc(16, sizeof(int));
+    array[0] = 1;
+    array[1] = 1;
     int n;
     while (1)
     {
