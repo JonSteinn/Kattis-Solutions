@@ -12,6 +12,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
+| [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
 | [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
@@ -60,7 +61,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
-| [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | C, [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
+| [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
 | [Quick Brown Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox/C) |
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
