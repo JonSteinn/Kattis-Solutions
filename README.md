@@ -4,15 +4,15 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 # Problems
 | Problems | Languages |
 | - | - |
-| [2048]() | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
-| [4 thought]() | [C]() |
-| [A Different Problem]() | [C]() |
-| [A Rational Sequence 2]() | [C]() |
-| [A Real Challenge]() | [C]() |
-| [ABC]() | [C]() |
-| [ACM Contest Scoring]() | [Go]() |
-| [Aaah!]() | [C]() |
-| [Alphabet Spam]() | [C]() |
+| [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
+| [4 thought](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought/Python%203) |
+| [A Different Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem/C) |
+| [A Rational Sequence 2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202/C) |
+| [A Real Challenge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge/C) |
+| [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
+| [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
+| [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
+| [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting]() | [Python 3]() |
 | [Another Brick in the Wall]() | [C]() |
 | [Apaxiaaaaaaaaaaaans!]() | [Go]() |
