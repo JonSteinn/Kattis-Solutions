@@ -60,7 +60,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
-| [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
+| [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | C, [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
 | [Quick Brown Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox/C) |
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
