@@ -95,6 +95,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
+| [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
 | [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
