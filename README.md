@@ -69,34 +69,34 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
 | [Reversed Binary Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/Go) |
 | [Riječi](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di/C) |
-| [Saving Daylight]() | [C]() |
-| [Secret Message]() | [C]() |
-| [Secure Doors]() | [C++]() |
-| [Server]() | [C]() |
-| [Seven Wonders]() | [Go]() |
-| [Simon Says]() | [C]() |
-| [Skener]() | [Java]() |
-| [Skocimis]() | [C]() |
-| [Solving for Carrots]() | [Go]() |
-| [Soylent]() | [Java]() |
-| [Spavanac]() | [Go]() |
-| [Speed Limit]() | [Go]() |
-| [Stacking Cups]() | [Go]() |
-| [Stand on Zanzibar]() | [Java]() |
-| [Statistics]() | [C]() |
-| [Stuck In A Time Loop]() | [Go]() |
-| [Sum Kind of Problem]() | [C](), [Go]() |
-| [Sums]() | [C](), [Python 3]() |
-| [Symmetric Order]() | [Java]() |
-| [Synchronizing Lists]() | [Java]() |
-| [Take Two Stones]() | [Go]() |
-| [Tarifa]() | [C]() |
-| [The Amazing Human Cannonball]() | [Go]() |
-| [The Easiest Problem Is This One]() | [Go]() |
-| [Travelling Salesperson 2D]() | [Python 3]() |
-| [Tri]() | [Go]() |
-| [Trik]() | [Go]() |
-| [Vauvau]() | [C]() |
-| [Volim]() | [C]() |
-| [Weak Vertices]() | [Python 3]() |
-| [Zamka]() | [Go]() |
+| [Saving Daylight](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight/C) |
+| [Secret Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message/C) |
+| [Secure Doors](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors/C%2B%2B) |
+| [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
+| [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
+| [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
+| [Skener](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener/Java) |
+| [Skocimis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis/C) |
+| [Solving for Carrots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots/Go) |
+| [Soylent](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent/Java) |
+| [Spavanac](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/Go) |
+| [Speed Limit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit/Go) |
+| [Stacking Cups](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups/Go) |
+| [Stand on Zanzibar](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar/Java) |
+| [Statistics](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Statistics) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Statistics/C) |
+| [Stuck In A Time Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stuck%20In%20A%20Time%20Loop) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stuck%20In%20A%20Time%20Loop/Go) |
+| [Sum Kind of Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem/Go) |
+| [Sums](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/Python%203) |
+| [Symmetric Order](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order/Java) |
+| [Synchronizing Lists](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists/Java) |
+| [Take Two Stones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones/Go) |
+| [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
+| [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
+| [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
+| [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
+| [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
+| [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
+| [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
+| [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
+| [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
+| [Zamka](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka/Go) |
