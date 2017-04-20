@@ -13,23 +13,23 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
-| [Anagram Counting]() | [Python 3]() |
-| [Another Brick in the Wall]() | [C]() |
-| [Apaxiaaaaaaaaaaaans!]() | [Go]() |
-| [Beavergnaw]() | [C]() |
-| [Bela]() | [Go]() |
-| [Bijele]() | [Go]() |
-| [CD]() | [C++]() |
-| [Catalan Numbers]() | [Python 3]() |
-| [Cetvrta]() | [Go]() |
-| [Closing the Loop]() | [Python 3]() |
-| [Cold-puter Science]() | [Go]() |
-| [Collatz Conjecture]() | [Python 3]() |
-| [Cryptographer's Conundrum]() | [Go]() |
-| [Detailed Differences]() | [C](), [Go]() |
-| [Dice Cup]() | [Go]() |
-| [Dice Game]() | [C]() |
-| [Different Distances]() | [C]() |
+| [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
+| [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
+| [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
+| [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
+| [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
+| [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
+| [CD](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD/C%2B%2B) |
+| [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
+| [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
+| [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
+| [Cold-puter Science](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science/Go) |
+| [Collatz Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture/Python%203) |
+| [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
+| [Detailed Differences](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/Go) |
+| [Dice Cup](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup/Go) |
+| [Dice Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game/C) |
+| [Different Distances](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances/C) |
 | [Eight Queens]() | [C]() |
 | [Eligibility]() | [Java]() |
 | [Estimating the Area of a Circle]() | [Go]() |
