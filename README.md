@@ -7,6 +7,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
 | [4 thought](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought/Python%203) |
 | [A Different Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem/C) |
+| [A New Alphabet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/Python%203) |
 | [A Rational Sequence 2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202/C) |
 | [A Real Challenge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge/C) |
 | [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
@@ -46,10 +47,12 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [I've Been Everywhere, Man](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man/Python%203) |
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
+| [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Karte](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte/C) |
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
+| [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
 | [Modulo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo/Go) |
@@ -61,10 +64,13 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
+| [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
 | [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
+| [Prva](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva/Java) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
 | [Quick Brown Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox/C) |
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
+| [Quite a Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem/C) |
 | [R2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2/C) |
 | [Ragged Right](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right/C) |
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
