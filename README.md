@@ -21,7 +21,9 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
+| [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
 | [CD](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD/C%2B%2B) |
+| [Card Trick](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick/C%2B%2B) |
 | [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
 | [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
 | [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
@@ -52,6 +54,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
+| [Left Beehind](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
@@ -84,6 +87,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
 | [Skener](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener/Java) |
 | [Skocimis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis/C) |
+| [Soda Surpler](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler/C) |
 | [Solving for Carrots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots/Go) |
 | [Soylent](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent/Java) |
 | [Spavanac](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/Go) |
@@ -100,6 +104,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
+| [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
 | [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
