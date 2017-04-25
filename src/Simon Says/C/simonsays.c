@@ -1,18 +1,20 @@
-#include "string.h"
-#include "stdio.h"
+#include <stdio.h>
+#include <string.h>
 
-#define SIMON_SAYS "Simon says "
-#define SIMON_LENGTH 11
-#define MAX_BUFFER 101
+#define SIMON "simon says "
+#define SIMON_LEN 11
 
 int main()
 {
     int n;
-    scanf("%d", &n);
-    char buffer[MAX_BUFFER];
-    while (n-- > 0)
+    scanf("%d\n",&n);
+    char buffer[1001];
+    while(n-->0)
     {
-        scanf(" %[^\n]", buffer);
-        if (!strncmp(buffer, SIMON_SAYS, SIMON_LENGTH)) printf("%s\n", buffer + SIMON_LENGTH);
+        fgets(buffer, 1001, stdin);
+        size_t len = strlen(buffer);
+        if (len <= SIMON_LEN || strncmp(buffer, SIMON, SIMON_LEN)) printf("\n");
+        else printf("%s\n", buffer+SIMON_LEN);
     }
+    return 0;
 }
