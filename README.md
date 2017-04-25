@@ -7,6 +7,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
 | [4 thought](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought/Python%203) |
 | [A Different Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem/C) |
+| [A List Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game/C) |
 | [A New Alphabet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/Python%203) |
 | [A Rational Sequence 2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202/C) |
 | [A Real Challenge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge/C) |
@@ -14,13 +15,17 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
+| [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
 | [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
+| [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
+| [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
+| [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
 | [CD](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD/C%2B%2B) |
 | [Card Trick](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick/C%2B%2B) |
@@ -36,20 +41,26 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Different Distances](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances/C) |
 | [Eight Queens](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens/C) |
 | [Eligibility](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility/Java) |
+| [Erase Securely](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely/C) |
 | [Estimating the Area of a Circle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle/Go) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
+| [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
 | [FizzBuzz](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz/Go) |
+| [Flexible Spaces](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces/C%2B%2B) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
 | [Grass Seed Inc](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc/Go) |
+| [Guess the Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number/C) |
 | [Height Ordering](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering/C) |
 | [Hello World!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!) | [C#](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%23), [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%2B%2B), [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Go), [Haskell](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Haskell), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Java) |
 | [Herman](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Herman) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Herman/C) |
 | [Hitting the Targets](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets/C) |
+| [How Many Digits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits/C) |
 | [I Hate The Number Nine](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine/C) |
 | [I've Been Everywhere, Man](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man/Python%203) |
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
+| [Just a Minute](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute/C) |
 | [Karte](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte/C) |
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
@@ -59,16 +70,21 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
 | [Modulo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo/Go) |
+| [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
+| [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
 | [Oddities](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities/Go) |
 | [One Chicken Per Person!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!/C) |
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
+| [Permutation Encryption](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption/C%2B%2B) |
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
 | [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
 | [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
+| [Primary Register](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register/C) |
+| [Prsteni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni/C) |
 | [Prva](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva/Java) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
 | [Quick Brown Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox/C) |
@@ -85,6 +101,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
 | [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
 | [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
+| [Simplicity](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity/C) |
 | [Skener](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener/Java) |
 | [Skocimis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis/C) |
 | [Soda Surpler](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler/C) |
@@ -111,6 +128,8 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
 | [Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find/C) |
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
+| [Veci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci/C) |
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
+| [Where's My Internet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet/C%2B%2B) |
 | [Zamka](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka/Go) |
