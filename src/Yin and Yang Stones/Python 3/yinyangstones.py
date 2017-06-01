@@ -1,0 +1,1 @@
+print(1 if (lambda t: t[0] == 2 * t[1])((lambda x, c: (len(x), x.count(c)))(input(), 'W')) else 0)
