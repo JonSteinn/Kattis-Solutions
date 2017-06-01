@@ -19,15 +19,18 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
 | [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
+| [Ants](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants/C) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
+| [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
+| [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
 | [Bus](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus/C)
 | [CD](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD/C%2B%2B) |
@@ -35,6 +38,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
 | [Cetiri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri/C) |
 | [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
+| [Chess](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess/C) |
 | [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
 | [Cold-puter Science](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science/Go) |
