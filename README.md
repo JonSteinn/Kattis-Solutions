@@ -148,7 +148,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Soda Surpler](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler/C) |
 | [Solving for Carrots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots/Go) |
 | [Soylent](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent/Java) |
-| [Spavanac](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/Go) |
+| [Spavanac](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/Go) |
 | [Speed Limit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit/Go) |
 | [Stacking Cups](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups/Go) |
 | [Stand on Zanzibar](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar/Java) |
