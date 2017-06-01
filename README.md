@@ -90,6 +90,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
 | [Left Beehind](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
+| [Matrix Inverse](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse/C) |
 | [Mia](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia/C) |
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
