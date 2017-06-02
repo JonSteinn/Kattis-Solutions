@@ -88,6 +88,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
+| [Lawn Mower](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower/C%2B%2B) |
 | [Left Beehind](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
 | [Matrix Inverse](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse/C) |
