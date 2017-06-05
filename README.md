@@ -22,6 +22,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Ants](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants/C) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
+| [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
 | [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
 | [Beat the Spread!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!/C) |
