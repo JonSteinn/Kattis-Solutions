@@ -41,6 +41,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Cetiri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri/C) |
 | [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
 | [Character Development](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development/C) |
+| [Charting Progress](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress/Python%203) |
 | [Chess](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess/C) |
 | [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
