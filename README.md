@@ -154,6 +154,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Skocimis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis/C) |
 | [Soda Surpler](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler/C) |
 | [Solving for Carrots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots/Go) |
+| [Sort of Sorting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sort%20of%20Sorting) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sort%20of%20Sorting/Java) |
 | [Soylent](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soylent/Java) |
 | [Spavanac](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Spavanac/Go) |
 | [Speed Limit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit/Go) |
