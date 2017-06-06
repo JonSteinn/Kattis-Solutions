@@ -31,6 +31,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
+| [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
