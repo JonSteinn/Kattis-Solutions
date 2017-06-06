@@ -114,6 +114,8 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
 | [One Chicken Per Person!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!/C) |
 | [Palindrome Substring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring/C%2B%2B) |
+| [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
+| [Paradox With Averages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages/C) |
 | [Parking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
