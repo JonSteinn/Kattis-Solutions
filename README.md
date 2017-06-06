@@ -37,6 +37,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
 | [Bus](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus/C)
 | [CD](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/CD/C%2B%2B) |
+| [Calculating Dart Scores](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Calculating%20Dart%20Scores) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Calculating%20Dart%20Scores/C) |
 | [Card Trick](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick/C%2B%2B) |
 | [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
 | [Cetiri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri/C) |
