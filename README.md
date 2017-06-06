@@ -182,6 +182,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
+| [Treasure Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt/C%2B%2B) |
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
 | [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
