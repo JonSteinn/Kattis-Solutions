@@ -4,10 +4,10 @@ long long honeycomb_walk(int n, long long* walks)
 {
     if (walks[n] < 0)
     {
-        long long c = honeycomb_walk(n-3, walks);
-        long long b = honeycomb_walk(n-2, walks);
-        long long a = honeycomb_walk(n-1, walks);
-        return (a*n + 24*b*n + 36*c*n - 24*b - 72*c)*(n - 1)/ (n * n);
+        walks[n-3] = honeycomb_walk(n-3, walks);
+        walks[n-2] = honeycomb_walk(n-2, walks);
+        walks[n-1] = honeycomb_walk(n-1, walks);
+        walks[n] = (walks[n-1]*n + 24*walks[n-2]*n + 36*walks[n-3]*n - 24*walks[n-2] - 72*walks[n-3])*(n - 1)/ (n * n);
     }
     return walks[n];
 }
