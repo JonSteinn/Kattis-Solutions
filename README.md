@@ -190,6 +190,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
 | [Un-bear-able Zoo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo/Java) |
 | [Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find/C) |
+| [Vacuumba](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vacuumba) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vacuumba/C) |
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
 | [Veci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci/C) |
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
