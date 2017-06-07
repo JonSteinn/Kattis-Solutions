@@ -19,6 +19,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
 | [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
+| [Another Candie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies/C) |
 | [Ants](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants/C) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
