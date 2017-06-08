@@ -50,6 +50,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
 | [Cold-puter Science](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science/Go) |
 | [Collatz Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture/Python%203) |
+| [Completing the Square](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square/C) |
 | [Compound Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words/C%2B%2B) |
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
