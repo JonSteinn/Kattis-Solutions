@@ -72,6 +72,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
 | [FizzBuzz](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz/Go) |
 | [Flexible Spaces](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces/C%2B%2B) |
+| [Flow Layout](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flow%20Layout) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flow%20Layout/C) |
 | [Friday the 13th](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/Python%203) |
 | [Functional Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun/Python%203) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
