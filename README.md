@@ -111,6 +111,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Marko](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko/C) |
 | [Matrix Inverse](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse/C) |
 | [Mia](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia/C) |
+| [Minimum Scalar Product](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Minimum%20Scalar%20Product) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Minimum%20Scalar%20Product/C) |
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
 | [Mjehuric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric/C) |
