@@ -120,6 +120,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
+| [Odd Binomial Coefficients](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients/C) |
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
 | [Oddities](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities/Go) |
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
