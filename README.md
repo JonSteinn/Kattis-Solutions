@@ -206,4 +206,5 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
 | [Where's My Internet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet/C%2B%2B) |
 | [Yin and Yang Stones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Yin%20and%20Yang%20Stones) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Yin%20and%20Yang%20Stones/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Yin%20and%20Yang%20Stones/Python%203) |
+| [Yoda](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Yoda) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Yoda/C) |
 | [Zamka](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Zamka/Go) |
