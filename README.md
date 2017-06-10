@@ -57,6 +57,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Convex Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area/C) |
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
+| [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
 | [Deduplicating Files](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files/Python%203) |
