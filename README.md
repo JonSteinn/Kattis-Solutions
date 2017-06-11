@@ -65,6 +65,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Dice Cup](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup/Go) |
 | [Dice Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game/C) |
 | [Different Distances](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances/C) |
+| [Digital display](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display/C) |
 | [Doorman](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman/C) |
 | [Eight Queens](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens/C) |
 | [Eligibility](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility/Java) |
