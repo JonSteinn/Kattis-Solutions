@@ -171,6 +171,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
 | [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
 | [Sibice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice/C)
+| [Sierpiński Circumference](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference/C) |
 | [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
 | [Simple Addition](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simple%20Addition) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simple%20Addition/Python%203) |
 | [Simplicity](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity/C) |
