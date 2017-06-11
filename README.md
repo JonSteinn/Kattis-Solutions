@@ -132,6 +132,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
 | [Paradox With Averages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages/C) |
 | [Parking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking/C) |
+| [Path Tracing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
