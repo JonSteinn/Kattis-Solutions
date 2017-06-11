@@ -108,6 +108,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Just a Minute](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute/C) |
 | [Karte](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte/C) |
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
+| [Knights in Fen](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Knights%20in%20Fen) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Knights%20in%20Fen/Java) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
 | [Lawn Mower](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower/C%2B%2B) |
