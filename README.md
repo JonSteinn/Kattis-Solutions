@@ -44,6 +44,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Candle Box](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Candle%20Box) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Candle%20Box/C) |
 | [Card Trick](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick/C%2B%2B) |
 | [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
+| [Ceiling Function](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ceiling%20Function) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ceiling%20Function/Java) |
 | [Cetiri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri/C) |
 | [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
 | [Character Development](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development/C) |
