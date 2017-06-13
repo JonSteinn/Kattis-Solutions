@@ -114,6 +114,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Lawn Mower](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower/C%2B%2B) |
 | [Left Beehind](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
+| [Longest Increasing Subsequence](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence/C) |
 | [Marko](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko/C) |
 | [Matrix Inverse](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse/C) |
 | [Mia](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia/C) |
