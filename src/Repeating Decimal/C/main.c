@@ -28,7 +28,7 @@ int main()
             else
             {
                 buffer[i++] = (char)('0' + 1);
-                a -= 7;
+                a -= b;
             }
         }
         printf("%s\n",buffer);
