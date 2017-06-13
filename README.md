@@ -102,6 +102,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [I Hate The Number Nine](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine/C) |
 | [I'm Thinking of a Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I'm%20Thinking%20of%20a%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I'm%20Thinking%20of%20a%20Number/C) |
 | [I've Been Everywhere, Man](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man/Python%203) |
+| [ICPC Tutorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial/C) |
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
