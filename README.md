@@ -106,6 +106,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
+| [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
 | [Jumbled Compass](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Compass) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Compass/C) |
 | [Just a Minute](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute/C) |
