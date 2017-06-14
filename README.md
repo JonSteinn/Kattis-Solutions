@@ -205,6 +205,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Sums](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/Python%203) |
 | [Symmetric Order](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order/Java) |
 | [Synchronizing Lists](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists/Java) |
+| [T9 Spelling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling/Python%203) |
 | [Take Two Stones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones/Go) |
 | [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
