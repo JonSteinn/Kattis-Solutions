@@ -222,6 +222,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Un-bear-able Zoo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo/Java) |
 | [Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find/C) |
 | [Vacuumba](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vacuumba) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vacuumba/C) |
+| [Variable Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Variable%20Arithmetic) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Variable%20Arithmetic/Python%203) |
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
 | [Veci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci/C) |
 | [Verify This, Your Majesty](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty/C%2B%2B) |
