@@ -54,6 +54,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
 | [Cold-puter Science](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science/Go) |
 | [Collatz Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture/Python%203) |
+| [Combination Lock](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Combination%20Lock) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Combination%20Lock/C) |
 | [Completing the Square](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square/C) |
 | [Compound Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words/C%2B%2B) |
 | [Convex Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area/C) |
