@@ -156,7 +156,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
 | [Planina](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina/C) |
 | [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
-| [Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/C), [Python](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/Python%203) |
+| [Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/Python%203) |
 | [Popular Vote](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Popular%20Vote) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Popular%20Vote/C%2B%2B) |
 | [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
 | [Preludes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes/C) |
