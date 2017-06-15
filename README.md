@@ -74,6 +74,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Eight Queens](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens/C) |
 | [Eligibility](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility/Java) |
 | [Encoded Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message/C) |
+| [Engineering English](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Engineering%20English) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Engineering%20English/Python%203) |
 | [Erase Securely](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely/C) |
 | [Estimating the Area of a Circle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle/Go) |
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
