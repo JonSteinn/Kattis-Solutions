@@ -101,6 +101,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Hiding Places](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places/Java) |
 | [Hitting the Targets](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets/C) |
 | [Honeycomb Walk](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk/C) |
+| [House of Cards](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards/C) |
 | [How Many Digits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits/C) |
 | [I Can Guess the Data Structure!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Can%20Guess%20the%20Data%20Structure!) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Can%20Guess%20the%20Data%20Structure!/C%2B%2B) |
 | [I Hate The Number Nine](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Hate%20The%20Number%20Nine/C) |
