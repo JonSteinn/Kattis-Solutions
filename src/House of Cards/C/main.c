@@ -4,8 +4,8 @@
 
 // 1. For height n, there are f(n) = n*(3*n+1)/2 cards in the pyramid.
 // 2. The sequence {f(n) mod 8, n >= 0} is [0, 2, 3, 3, 2, 0, 1, 1] repeated.
-// n % 8 == 0 if last 3 digits of n is divisible by 8
-// n % 8 == 5 if binary(n) ends with 101
+// 3. n % 8 == 0 if last 3 digits of n is divisible by 8
+// 4. n % 8 == 5 if binary(n) ends with 101
 
 void increment(char* str, size_t len)
 {
