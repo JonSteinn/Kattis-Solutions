@@ -186,6 +186,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Secure Doors](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors/C%2B%2B) |
 | [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
 | [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
+| [Shopaholic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic/C) |
 | [Sibice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice/C)
 | [Sierpiński Circumference](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference/C) |
 | [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
