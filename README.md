@@ -172,6 +172,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Quite a Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem/C) |
 | [R2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2/C) |
 | [Ragged Right](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right/C) |
+| [Rational Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic/C) |
 | [Repeating Decimal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/Python%203) |
 | [Reseto](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reseto) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reseto/C) |
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
