@@ -130,6 +130,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mia](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mia/C) |
 | [Minimum Scalar Product](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Minimum%20Scalar%20Product) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Minimum%20Scalar%20Product/C) |
 | [Mirror Images](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mirror%20Images/C) |
+| [Misa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Misa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Misa/C) |
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
 | [Mjehuric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric/C) |
 | [Modulo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo/Go) |
