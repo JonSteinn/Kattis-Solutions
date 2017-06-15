@@ -140,6 +140,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
 | [Oddities](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities/Go) |
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
+| [Older Brother](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother/C) |
 | [One Chicken Per Person!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!/C) |
 | [Palindrome Substring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring/C%2B%2B) |
 | [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
