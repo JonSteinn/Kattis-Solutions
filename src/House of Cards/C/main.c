@@ -17,12 +17,11 @@ void increment(char* str, size_t len)
 int ends_with_101(char* str, size_t len)
 {
     int n = atoi(str + len - 3);
-    int bits = n % 2;
+    if (!((n%2)&1)) return 0;
     n >>= 1;
-    bits += 10 * (n % 2);
+    if ((n%2)&1) return 0;
     n >>= 1;
-    bits += 100 * (n % 2);
-    return bits == 101;
+    return (n%2)&1;
 }
 
 void update_buffer(char* str, size_t l)
