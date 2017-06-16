@@ -26,6 +26,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
 | [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
+| [Bacon Eggs and Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam/Python%203) |
 | [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
 | [Beat the Spread!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!/C) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
