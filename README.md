@@ -121,6 +121,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
+| [Jury Jeopardy](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy/Python%203) |
 | [Jumbled Compass](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Compass) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Compass/C) |
 | [Just a Minute](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Just%20a%20Minute/C) |
 | [Karte](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte/C) |
