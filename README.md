@@ -116,6 +116,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [I've Been Everywhere, Man](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man/Python%203) |
 | [ICPC Tutorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial/C) |
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
+| [Imperial Measurement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement/Python%203) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
