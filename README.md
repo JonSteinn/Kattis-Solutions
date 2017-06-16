@@ -163,6 +163,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pervasive Heart Monitor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor/Java) |
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
+| [Pig Latin](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pig%20Latin) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pig%20Latin/Python%203) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
 | [Planina](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina/C) |
 | [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
