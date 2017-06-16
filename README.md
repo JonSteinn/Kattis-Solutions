@@ -90,6 +90,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Friday the 13th](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/Python%203) |
 | [Fridge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge/C) |
 | [Functional Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun/Python%203) |
+| [Getting Gold](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold/C%2B%2B) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
 | [Grandpa Bernie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie/Python%203) |
 | [Grass Seed Inc](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc/Go) |
