@@ -5,6 +5,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | Problems | Languages |
 | - | - |
 | [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
+| [3D Printed Statues](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/3D%20Printed%20Statues) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/3D%20Printed%20Statues/C) |
 | [4 thought](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought/Python%203) |
 | [A Different Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem/C) |
 | [A List Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game/C) |
