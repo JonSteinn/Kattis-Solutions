@@ -14,6 +14,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
+| [Adding Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words/Python%203) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
 | [Alien Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers/Python%203) |
 | [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
