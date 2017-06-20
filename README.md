@@ -18,6 +18,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Adding Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words/Python%203) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
 | [Alien Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers/Python%203) |
+| [All about that base](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base/C%2B%2B) |
 | [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
@@ -33,6 +34,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Beat the Spread!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!/C) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
 | [Beehives](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beehives) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beehives/C) |
+| [Beekeeper](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper/Python%203) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
