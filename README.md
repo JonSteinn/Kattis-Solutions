@@ -38,6 +38,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
+| [Black Friday](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
@@ -48,6 +49,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Candle Box](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Candle%20Box) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Candle%20Box/C) |
 | [Card Trick](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Card%20Trick/C%2B%2B) |
 | [Catalan Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Numbers/Python%203) |
+| [Catalan Square](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Square) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Catalan%20Square/Python%203) |
 | [Ceiling Function](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ceiling%20Function) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ceiling%20Function/Java) |
 | [Cetiri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetiri/C) |
 | [Cetvrta](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cetvrta/Go) |
@@ -248,6 +250,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Verify This, Your Majesty](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty/C%2B%2B) |
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
+| [Welcome to Code Jam (Easy)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)/Python%203) |
 | [What does the fox say?](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What%20does%20the%20fox%20say) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What%20does%20the%20fox%20say/Python%203) |
 | [Where's My Internet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet/C%2B%2B) |
 | [Words for Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Words%20for%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Words%20for%20Numbers/Python%203) |
