@@ -59,6 +59,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Charting Progress](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress/Python%203) |
 | [Chess](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess/C) |
 | [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
+| [Coast Length](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Coast%20Length) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Coast%20Length/C) |
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
 | [Cold-puter Science](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cold-puter%20Science/Go) |
 | [Collatz Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Collatz%20Conjecture/Python%203) |
@@ -163,6 +164,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
 | [Paradox With Averages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages/C) |
 | [Parking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking/C) |
+| [Pascal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal/C) |
 | [Path Tracing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
