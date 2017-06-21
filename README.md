@@ -237,6 +237,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
 | [Texture Analysis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis/Python%203) |
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
+| [The Backslash Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem/Python%203) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
