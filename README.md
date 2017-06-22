@@ -22,6 +22,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [All about that base](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base/C%2B%2B) |
 | [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
+| [Amalgamated Artichokes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Amalgamated%20Artichokes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Amalgamated%20Artichokes/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
 | [Another Brick in the Wall](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Brick%20in%20the%20Wall/C) |
 | [Another Candie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies/C) |
@@ -137,6 +138,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Karte](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Karte/C) |
 | [Kemija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kemija/Go) |
 | [Kitchen Measurements](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kitchen%20Measurements) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kitchen%20Measurements/Java) |
+| [Kitten on a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kitten%20on%20a%20Tree) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kitten%20on%20a%20Tree/Java) |
 | [Knights in Fen](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Knights%20in%20Fen) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Knights%20in%20Fen/Java) |
 | [Kornislav](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Kornislav/C) |
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
@@ -195,6 +197,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
 | [Quite a Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem/C) |
 | [R2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2/C) |
+| [Radio Commercials](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials/Python%203) |
 | [Ragged Right](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right/C) |
 | [Rational Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic/C) |
 | [Repeating Decimal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/Python%203) |
