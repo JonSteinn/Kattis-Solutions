@@ -27,6 +27,8 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Another Candie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Another%20Candies/C) |
 | [Ants](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ants/C) |
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
+| [Army Strength (Easy)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Easy)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Easy)/C) |
+| [Army Strength (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Hard)/C) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
 | [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
