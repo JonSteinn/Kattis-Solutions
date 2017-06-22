@@ -1,9 +1,6 @@
 # Kattis Solutions
 Solutions to the [Kattis archives](https://open.kattis.com/).
 
-## Profile
-[Jón Steinn Elíasson - Iceland - Reykjavík University](https://open.kattis.com/users/jon-steinn-eliasson)
-
 ## Problems
 | Problems | Languages |
 | - | - |
