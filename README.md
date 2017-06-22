@@ -4,6 +4,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 # Problems
 | Problems | Languages |
 | - | - |
+| [10 Kinds of People](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People/C) |
 | [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) |
 | [3D Printed Statues](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/3D%20Printed%20Statues) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/3D%20Printed%20Statues/C) |
 | [4 thought](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/4%20thought/Python%203) |
@@ -160,6 +161,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
 | [Older Brother](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother/C) |
 | [One Chicken Per Person!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!/C) |
+| [Ones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ones) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ones/C) |
 | [Palindrome Substring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Palindrome%20Substring/C%2B%2B) |
 | [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
 | [Paradox With Averages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages/C) |
@@ -241,6 +243,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
+| [Toilet Seat](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat/C) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
 | [Treasure Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt/C%2B%2B) |
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
