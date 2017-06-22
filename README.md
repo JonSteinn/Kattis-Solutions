@@ -1,7 +1,10 @@
 # Kattis Solutions
 Solutions to the [Kattis archives](https://open.kattis.com/).
 
-# Problems
+## Profile
+[Jón Steinn Elíasson - Iceland - Reykjavík University](https://open.kattis.com/users/jon-steinn-eliasson)
+
+## Problems
 | Problems | Languages |
 | - | - |
 | [10 Kinds of People](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People/C) |
