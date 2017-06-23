@@ -104,6 +104,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
 | [Grandpa Bernie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie/Python%203) |
 | [Grass Seed Inc](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc/Go) |
+| [Grid](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grid) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grid/C) |
 | [Growling Gears](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Growling%20Gears) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Growling%20Gears/C) |
 | [Guess the Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number/C) |
 | [Half a Cookie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie/C) |
@@ -205,6 +206,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
 | [Reversed Binary Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/Go) |
 | [Riječi](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di/C) |
+| [Rock-Paper-Scissors Tournament](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament/C) |
 | [Roll Call](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call/Java) |
 | [Santa Klas](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/Python%203) |
 | [Saving Daylight](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight/C) |
