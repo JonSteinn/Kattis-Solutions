@@ -173,6 +173,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Paradox With Averages (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages%20(Hard)/C) |
 | [Paradox With Averages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paradox%20With%20Averages/C) |
 | [Parking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking/C) |
+| [Parking(2)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking(2)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking(2)/C) |
 | [Pascal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal/C) |
 | [Path Tracing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
@@ -222,6 +223,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Sibice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice/C)
 | [Sierpiński Circumference](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference/C) |
 | [Simon Says](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says/C) |
+| [Simon Says(2)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says(2)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simon%20Says(2)/C) |
 | [Simple Addition](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simple%20Addition) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simple%20Addition/Python%203) |
 | [Simplicity](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Simplicity/C) |
 | [Sjecista](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sjecista) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sjecista/C) |
