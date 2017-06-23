@@ -1,15 +1,13 @@
 #include <stdio.h>
 #include "point2D.h"
 
-#define UNUSED(x) (void)(x)
-
 int main()
 {
     int r,c;
-    UNUSED(scanf("%d %d",&r,&c));
+    scanf("%d %d",&r,&c);
 
     char map[r][c+1];
-    for (int i = 0; i < r; i++) UNUSED(scanf("%s", map[i]));
+    for (int i = 0; i < r; i++) scanf("%s", map[i]);
 
     int total = r * c;
     int next_group = 1;
@@ -20,12 +18,12 @@ int main()
     init(&open, total<<2);
 
     int q;
-    UNUSED(scanf("%d",&q));
+    scanf("%d",&q);
 
     while (q--)
     {
         short r1,c1,r2,c2;
-        UNUSED(scanf("%hi %hi %hi %hi",&r1,&c1,&r2,&c2));
+        scanf("%hi %hi %hi %hi",&r1,&c1,&r2,&c2);
         r1--; c1--; r2--; c2--;
         int dim_one_1 = r1 * c + c1;
         int dim_one_2 = r2 * c + c2;
