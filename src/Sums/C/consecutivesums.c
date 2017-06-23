@@ -30,7 +30,7 @@ int main()
 {
     int times, number;
     scanf("%d", &times);
-    while (times-- > 0)
+    while (times--)
     {
         scanf("%d", &number);
         if (number & (number - 1)) sum_search(number);
