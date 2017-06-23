@@ -83,6 +83,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Different Distances](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances/C) |
 | [Digital display](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display/C) |
 | [Doorman](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman/C) |
+| [Eb Alto Saxophone Player](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eb%20Alto%20Saxophone%20Player) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eb%20Alto%20Saxophone%20Player/Python%203)
 | [Eight Queens](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens/C) |
 | [Eligibility](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eligibility/Java) |
 | [Encoded Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message/C) |
