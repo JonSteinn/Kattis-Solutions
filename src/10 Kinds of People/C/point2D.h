@@ -43,7 +43,6 @@ void push(stack* s, short x, short y)
 
 point* pop(stack* s)
 {
-    point* tmp = s->next - 1;
     s->next--;
-    return tmp;
+    return s->next;
 }
