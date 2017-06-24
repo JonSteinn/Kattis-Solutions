@@ -20,7 +20,9 @@ short one = 1;
 struct grid {
 
     int r, c;
-    char** data;
+    // TODO: allocate 10^6 chars in main to a single char* pointer
+    // and map 2d to 1d for access and re-use for all test cases
+    char** data; 
     
     grid(int r, int c) {
         this->r = r;
