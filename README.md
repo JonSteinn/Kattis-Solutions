@@ -93,6 +93,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
 | [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
+| [Fire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fire) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fire/C%2B%2B) |
 | [FizzBuzz](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz/Go) |
 | [Flexible Spaces](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces/C%2B%2B) |
 | [Flip Five](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flip%20Five) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flip%20Five/C%2B%2B) |
