@@ -7,11 +7,15 @@
 
 #include <stdlib.h>
 
+// Pair node for positions of fire
 struct FNode {
     short x;
     short y;
 };
 
+/*
+ * Stack to iterate fires. Memory waste for speed.
+ */
 class Pair_Stack {
 public:
     Pair_Stack(int max_capacity);
