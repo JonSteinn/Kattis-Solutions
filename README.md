@@ -262,6 +262,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
 | [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
 | [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
+| [Trojke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trojke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trojke/C) |
 | [Troll Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt/Python%203) |
 | [Un-bear-able Zoo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo/Java) |
 | [Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Union-Find/C) |
