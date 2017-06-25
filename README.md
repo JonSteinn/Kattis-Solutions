@@ -21,6 +21,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Alien Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers/Python%203) |
 | [All about that base](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base/C%2B%2B) |
 | [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
+| [Almost Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Union-Find) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Union-Find/Python%203) |
 | [Alphabet Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alphabet%20Spam/C) |
 | [Amalgamated Artichokes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Amalgamated%20Artichokes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Amalgamated%20Artichokes/C) |
 | [Anagram Counting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Anagram%20Counting/Python%203) |
