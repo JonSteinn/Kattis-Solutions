@@ -195,6 +195,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Preludes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes/C) |
 | [Primary Register](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register/C) |
 | [Printing Costs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Printing%20Costs) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Printing%20Costs/Python%203) |
+| [Pripreme](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme/Python%203) |
 | [Prsteni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni/C) |
 | [Prva](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva/Java) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
