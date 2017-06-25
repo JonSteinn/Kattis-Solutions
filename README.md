@@ -43,6 +43,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
+| [Bit by Bit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/Python%203) |
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
 | [Black Friday](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
@@ -70,8 +71,10 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Combination Lock](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Combination%20Lock) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Combination%20Lock/C) |
 | [Completing the Square](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Completing%20the%20Square/C) |
 | [Compound Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Compound%20Words/C%2B%2B) |
+| [Conformity](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Conformity) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Conformity/Python%203) |
 | [Convex Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area/C) |
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
+| [Crne](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne/C) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
 | [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
@@ -89,6 +92,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Encoded Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Encoded%20Message/C) |
 | [Engineering English](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Engineering%20English) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Engineering%20English/Python%203) |
 | [Erase Securely](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely/C) |
+| [Esej](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej/C) |
 | [Estimating the Area of a Circle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle/Go) |
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
