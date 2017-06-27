@@ -260,6 +260,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Backslash Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem/Python%203) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
+| [The Owl and the Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox/C) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
 | [Toilet Seat](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat/C) |
