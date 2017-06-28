@@ -35,6 +35,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
 | [Bacon Eggs and Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam/Python%203) |
+| [Batmanacci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/Python%203) |
 | [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
 | [Beat the Spread!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!/C) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
@@ -64,6 +65,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Character Development](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Character%20Development/C) |
 | [Charting Progress](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Charting%20Progress/Python%203) |
 | [Chess](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Chess/C) |
+| [Closest Sum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closest%20Sums) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closest%20Sums/C) |
 | [Closing the Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Closing%20the%20Loop/Python%203) |
 | [Coast Length](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Coast%20Length) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Coast%20Length/C) |
 | [Cokolada](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cokolada/C) |
