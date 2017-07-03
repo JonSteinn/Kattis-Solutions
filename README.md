@@ -81,6 +81,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
 | [Crne](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne/C) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
+| [Cudoviste](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste/C) |
 | [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
