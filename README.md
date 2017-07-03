@@ -84,6 +84,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
+| [Deathstart](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar/C) |
 | [Deduplicating Files](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files/Python%203) |
 | [Detailed Differences](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/Go) |
 | [Dice Cup](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup/Go) |
