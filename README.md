@@ -15,6 +15,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [A Real Challenge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge/C) |
 | [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
+| [ASCII Figure Rotation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ASCII%20Figure%20Rotation) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ASCII%20Figure%20Rotation/Python%203) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
 | [Adding Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words/Python%203) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
@@ -44,6 +45,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
+| [Bing It On](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On/Python%203) |
 | [Bishops](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bishops/C) |
 | [Bit by Bit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/Python%203) |
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
@@ -109,6 +111,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Friday the 13th](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/Python%203) |
 | [Fridge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge/C) |
 | [Functional Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun/Python%203) |
+| [Get to Work](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work/C) |
 | [Getting Gold](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold/C%2B%2B) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
 | [Grandpa Bernie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie/Python%203) |
@@ -140,6 +143,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Imperial Measurement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement/Python%203) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
+| [Island Hopping](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
 | [Jury Jeopardy](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy/Python%203) |
