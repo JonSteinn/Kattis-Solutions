@@ -225,6 +225,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Riječi](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di/C) |
 | [Rock-Paper-Scissors Tournament](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament/C) |
 | [Roll Call](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call/Java) |
+| [Running Steps](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Running%20Steps) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Running%20Steps/C) |
 | [Santa Klas](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/Python%203) |
 | [Saving Daylight](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight/C) |
 | [Saving for Retirement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20for%20Retirement) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20for%20Retirement/C) |
