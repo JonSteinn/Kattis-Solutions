@@ -146,6 +146,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Island Hopping](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping/C) |
+| [Jabuke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
 | [Jury Jeopardy](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy/Python%203) |
@@ -194,7 +195,9 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
 | [Peragrams](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams/C) |
+| [Perket](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket/C) |
 | [Permutation Encryption](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption/C%2B%2B) |
+| [Permuted Arithmetic Sequence](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permuted%20Arithmetic%20Sequence) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permuted%20Arithmetic%20Sequence/C) |
 | [Pervasive Heart Monitor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor/Java) |
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
