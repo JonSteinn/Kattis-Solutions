@@ -279,8 +279,8 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
 | [Treasure Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt/C%2B%2B) |
 | [Tri Tiling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri%20Tiling/C) |
-| [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
-| [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
+| [Tri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tri/Go) |
+| [Trik](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trik/Go) |
 | [Trojke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trojke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Trojke/C) |
 | [Troll Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Troll%20Hunt/Python%203) |
 | [Un-bear-able Zoo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Un-bear-able%20Zoo/Java) |
