@@ -161,6 +161,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Ladder](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ladder/Go) |
 | [Lawn Mower](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lawn%20Mower/C%2B%2B) |
 | [Left Beehind](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Left%20Beehind/C) |
+| [Lektira](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lektira) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lektira/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
 | [Longest Increasing Subsequence](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence/C) |
 | [Marko](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko/C) |
@@ -203,6 +204,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pet/Go) |
 | [Phone List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Phone%20List/C%2B%2B) |
 | [Pig Latin](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pig%20Latin) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pig%20Latin/Python%203) |
+| [Pivot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pivot) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pivot/C%2B%2B) |
 | [Pizza Crust](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pizza%20Crust/C) |
 | [Planina](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina/C) |
 | [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
@@ -275,6 +277,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
 | [The Owl and the Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox/C) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
+| [Time Travelling Temperatures](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Time%20Travelling%20Temperatures) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Time%20Travelling%20Temperatures/C) |
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
 | [Toilet Seat](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat/C) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
