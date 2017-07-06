@@ -176,6 +176,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mosquito Multiplication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication/C) |
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
+| [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
 | [Odd Binomial Coefficients](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients/C) |
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
