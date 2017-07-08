@@ -32,6 +32,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Apaxiaaaaaaaaaaaans!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Apaxiaaaaaaaaaaaans!/Go) |
 | [Army Strength (Easy)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Easy)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Easy)/C) |
 | [Army Strength (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Hard)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Army%20Strength%20(Hard)/C) |
+| [Association for Computing Machinery](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Association%20for%20Computing%20Machinery) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Association%20for%20Computing%20Machinery/C) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
 | [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
@@ -177,6 +178,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mjehuric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric/C) |
 | [Modulo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo/Go) |
 | [Mosquito Multiplication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication/C) |
+| [Mountain Biking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking/C) |
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
 | [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
@@ -239,6 +241,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Santa Klas](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/Python%203) |
 | [Saving Daylight](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight/C) |
 | [Saving for Retirement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20for%20Retirement) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20for%20Retirement/C) |
+| [Scaling Recipes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Scaling%20Recipes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Scaling%20Recipes/C) |
 | [Secret Chamber at Mount Rushmore](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Chamber%20at%20Mount%20Rushmore) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Chamber%20at%20Mount%20Rushmore/C%2B%2B) |
 | [Secret Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message/C) |
 | [Secure Doors](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors/C%2B%2B) |
