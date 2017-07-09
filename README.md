@@ -179,6 +179,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mixed Fractions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mixed%20Fractions/C) |
 | [Mjehuric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mjehuric/C) |
 | [Modulo](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Modulo/Go) |
+| [Money Matters](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Money%20Matters) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Money%20Matters/C%2B%2B) |
 | [Mosquito Multiplication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication/C) |
 | [Mountain Biking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking/C) |
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
