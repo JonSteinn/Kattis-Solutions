@@ -136,6 +136,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Hidden Password](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hidden%20Password) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hidden%20Password/C) |
 | [Hiding Places](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places/Java) |
 | [Hitting the Targets](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets/C) |
+| [Holey N-Queens (Batman)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)/C) |
 | [Honeycomb Walk](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk/C) |
 | [House of Cards](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards/C) |
 | [How Many Digits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits/C) |
