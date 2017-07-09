@@ -105,6 +105,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Erase Securely](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Erase%20Securely/C) |
 | [Esej](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej/C) |
 | [Estimating the Area of a Circle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle/Go) |
+| [Even Up Solitaire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire/C) |
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
 | [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
