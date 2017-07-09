@@ -199,6 +199,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Path Tracing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
+| [Pebble Solitaire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire/C) |
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
 | [Peragrams](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams/C) |
 | [Perket](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket/C) |
