@@ -114,6 +114,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [FizzBuzz](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/FizzBuzz/Go) |
 | [Flexible Spaces](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flexible%20Spaces/C%2B%2B) |
 | [Flip Five](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flip%20Five) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flip%20Five/C%2B%2B) |
+| [Flood-It](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flood-It) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flood-It/C) |
 | [Flow Layout](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flow%20Layout) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Flow%20Layout/C) |
 | [Fractional Lotion](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fractional%20Lotion) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fractional%20Lotion/C) |
 | [Friday the 13th](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/Python%203) |
