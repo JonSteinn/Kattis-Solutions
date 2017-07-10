@@ -204,6 +204,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
 | [Pebble Solitaire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire/C) |
+| [Pebble Solitaire(2)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire(2)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pebble%20Solitaire(2)/C) |
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
 | [Peragrams](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams/C) |
 | [Perket](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket/C) |
@@ -242,6 +243,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Riječi](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di/C) |
 | [Rock-Paper-Scissors Tournament](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament/C) |
 | [Roll Call](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call/Java) |
+| [Rotate and Cut](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rotate%20and%20Cut) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rotate%20and%20Cut/C) |
 | [Running Steps](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Running%20Steps) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Running%20Steps/C) |
 | [Santa Klas](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Santa%20Klas/Python%203) |
 | [Saving Daylight](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Saving%20Daylight/C) |
