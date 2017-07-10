@@ -52,6 +52,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bit by Bit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/Python%203) |
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
 | [Black Friday](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday/C) |
+| [Bobby's Bet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
@@ -241,6 +242,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
 | [Reversed Binary Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reversed%20Binary%20Numbers/Go) |
 | [Riječi](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rije%C4%8Di/C) |
+| [Rock, Scissors, Paper](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock%2C%20Scissors%2C%20Paper) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock%2C%20Scissors%2C%20Paper/C) |
 | [Rock-Paper-Scissors Tournament](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rock-Paper-Scissors%20Tournament/C) |
 | [Roll Call](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Roll%20Call/Java) |
 | [Rotate and Cut](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rotate%20and%20Cut) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rotate%20and%20Cut/C) |
