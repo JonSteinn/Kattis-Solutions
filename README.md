@@ -35,6 +35,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Association for Computing Machinery](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Association%20for%20Computing%20Machinery) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Association%20for%20Computing%20Machinery/C) |
 | [Autori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Autori/C) |
 | [Babelfish](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Babelfish/Python%203) |
+| [Bachet's Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bachet's%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bachet's%20Game/C) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
 | [Bacon Eggs and Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam/Python%203) |
 | [Bard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard/Python%203) |
