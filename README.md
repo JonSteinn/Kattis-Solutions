@@ -128,6 +128,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Grid](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grid) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grid/C) |
 | [Growling Gears](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Growling%20Gears) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Growling%20Gears/C) |
 | [Guess the Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number/C) |
+| [Guessing Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guessing%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guessing%20Game/C) |
 | [Half a Cookie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie/C) |
 | [Happy Happy Prime Prime](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime/C%2B%2B) |
 | [Hay Points](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points/Python%203) |
