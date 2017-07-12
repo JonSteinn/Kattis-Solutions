@@ -286,6 +286,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Symmetric Order](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order/Java) |
 | [Synchronizing Lists](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists/Java) |
 | [T9 Spelling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling/Python%203) |
+| [Tajna](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tajna) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tajna/C) |
 | [Take Two Stones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones/Go) |
 | [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
 | [Texture Analysis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis/Python%203) |
