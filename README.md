@@ -38,6 +38,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bachet's Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bachet's%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bachet's%20Game/C) |
 | [Backspace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Backspace/C%2B%2B) |
 | [Bacon Eggs and Spam](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bacon%20Eggs%20and%20Spam/Python%203) |
+| [Bank Queue](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bank%20Queue) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bank%20Queue/C) |
 | [Bard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard/Python%203) |
 | [Batmanacci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/Python%203) |
 | [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
