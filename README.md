@@ -197,6 +197,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
 | [Oddities](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities/Go) |
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
+| [Okviri](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Okviri) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Okviri/C), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Okviri/Java) |
 | [Older Brother](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Older%20Brother/C) |
 | [One Chicken Per Person!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/One%20Chicken%20Per%20Person!/C) |
 | [Ones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ones) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ones/C) |
