@@ -48,6 +48,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Beehives](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beehives) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beehives/C) |
 | [Beekeeper](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper/Python%203) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
+| [Best Compression Ever](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Best%20Compression%20Ever) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Best%20Compression%20Ever/C) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bing It On](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On/Python%203) |
@@ -91,6 +92,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
+| [Daylight Saving Time](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Daylight%20Saving%20Time) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Daylight%20Saving%20Time/C)
 | [Deathstart](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar/C) |
 | [Deduplicating Files](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files/Python%203) |
 | [Detailed Differences](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/Go) |
@@ -110,6 +112,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Esej](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Esej/C) |
 | [Estimating the Area of a Circle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Estimating%20the%20Area%20of%20a%20Circle/Go) |
 | [Even Up Solitaire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire/C) |
+| [Exam Redistribution](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Exam%20Redistribution) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Exam%20Redistribution/C) |
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
 | [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
@@ -321,6 +324,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
 | [Welcome to Code Jam (Easy)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)/Python%203) |
+| [Wet Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Wet%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Wet%20Tiles/C) |
 | [What does the fox say?](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What%20does%20the%20fox%20say) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What%20does%20the%20fox%20say/Python%203) |
 | [What's on the Grille?](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What's%20on%20the%20Grille) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/What's%20on%20the%20Grille/C) |
 | [Where's My Internet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Where's%20My%20Internet/C%2B%2B) |
