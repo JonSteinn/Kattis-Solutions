@@ -176,6 +176,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Lektira](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lektira) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Lektira/C) |
 | [Line Them Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Line%20Them%20Up/C) |
 | [Longest Increasing Subsequence](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Longest%20Increasing%20Subsequence/C) |
+| [Manhattan Positioning System](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Manhattan%20Positioning%20System) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Manhattan%20Positioning%20System/Java) |
 | [Marko](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Marko/C) |
 | [Matrix Inverse](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Matrix%20Inverse/C) |
 | [Metaprogramming](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Metaprogramming) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Metaprogramming/Python%203) |
