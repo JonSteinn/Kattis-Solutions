@@ -264,6 +264,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Secret Chamber at Mount Rushmore](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Chamber%20at%20Mount%20Rushmore) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Chamber%20at%20Mount%20Rushmore/C%2B%2B) |
 | [Secret Message](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secret%20Message/C) |
 | [Secure Doors](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Secure%20Doors/C%2B%2B) |
+| [Semafori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Semafori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Semafori/C) |
 | [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
 | [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
 | [Shopaholic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic/C) |
@@ -276,6 +277,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Sjecista](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sjecista) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sjecista/C) |
 | [Skener](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skener/Java) |
 | [Skocimis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Skocimis/C) |
+| [Smart Phone](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Smart%20Phone) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Smart%20Phone/C) |
 | [Soda Surpler](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Soda%20Surpler/C) |
 | [Solving for Carrots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Solving%20for%20Carrots/Go) |
 | [Sort of Sorting](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sort%20of%20Sorting) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sort%20of%20Sorting/Java) |
@@ -300,6 +302,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Backslash Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem/Python%203) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
+| [The Mailbox Manufacturers Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Mailbox%20Manufacturers%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Mailbox%20Manufacturers%20Problem/C) |
 | [The Owl and the Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox/C) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
 | [Time Travelling Temperatures](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Time%20Travelling%20Temperatures) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Time%20Travelling%20Temperatures/C) |
