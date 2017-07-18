@@ -49,6 +49,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Beekeeper](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beekeeper/Python%203) |
 | [Bela](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bela/Go) |
 | [Best Compression Ever](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Best%20Compression%20Ever) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Best%20Compression%20Ever/C) |
+| [Big Truck](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Big%20Truck) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Big%20Truck/C%2B%2B) |
 | [Bijele](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bijele/Go) |
 | [Billiard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Billiard/C) |
 | [Bing It On](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bing%20It%20On/Python%203) |
