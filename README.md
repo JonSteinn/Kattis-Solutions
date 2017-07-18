@@ -57,6 +57,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bit by Bit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bit%20by%20Bit/Python%203) |
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
 | [Black Friday](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday/C) |
+| [Black Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/C), [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/C%2B%2B), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/Go), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/Java) |
 | [Bobby's Bet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
@@ -162,6 +163,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [Imperial Measurement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement/Python%203) |
 | [In Or Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/In%20Or%20Out/C) |
+| [Integer List](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Integer%20Lists) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Integer%20Lists/C) |
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Island Hopping](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping/C) |
 | [Jabuke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke/C) |
