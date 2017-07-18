@@ -58,4 +58,7 @@ int main()
         scanf("%d",&x);
         printf("%d\n", is_prime(numbers, x) != 0);
     }
+   
+   free(numbers);
+   return 0;
 }
