@@ -101,6 +101,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Dice Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game/C) |
 | [Different Distances](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Different%20Distances/C) |
 | [Digital display](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Digital%20display/C) |
+| [Dominoes 2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dominoes%202) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dominoes%202/C%2B%2B) |
 | [Doorman](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Doorman/C) |
 | [Eb Alto Saxophone Player](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eb%20Alto%20Saxophone%20Player) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eb%20Alto%20Saxophone%20Player/Python%203)
 | [Eight Queens](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Eight%20Queens/C) |
