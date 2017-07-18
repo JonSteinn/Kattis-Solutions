@@ -127,6 +127,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Fractional Lotion](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fractional%20Lotion) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fractional%20Lotion/C) |
 | [Friday the 13th](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Friday%20the%2013th/Python%203) |
 | [Fridge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge/C) |
+| [Fun House](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fun%20House) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fun%20House/C) |
 | [Functional Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun/Python%203) |
 | [Get to Work](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work/C) |
 | [Getting Gold](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold/C%2B%2B) |
@@ -236,6 +237,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
 | [Preludes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes/C) |
 | [Primary Register](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Primary%20Register/C) |
+| [Prime Sieve](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prime%20Sieve/C) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prime%20Sieve/C) |
 | [Printing Costs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Printing%20Costs) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Printing%20Costs/Python%203) |
 | [Pripreme](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pripreme/Python%203) |
 | [Prsteni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni/C) |
