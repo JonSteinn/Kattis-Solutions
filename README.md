@@ -58,6 +58,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bits/C) |
 | [Black Friday](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Friday/C) |
 | [Black Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/C), [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/C%2B%2B), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/Go), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Black%20Out/Java) |
+| [Block Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Block%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Block%20Game/C) |
 | [Bobby's Bet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
@@ -88,6 +89,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Conformity](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Conformity) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Conformity/Python%203) |
 | [Convex Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area/C) |
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
+| [Counting Subsequences (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Subsequences%20(Hard)) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Subsequences%20(Hard)/C%2B%2B) |
 | [Crne](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne/C) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
 | [Cudoviste](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste/C) |
@@ -330,6 +332,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Vauvau](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Vauvau/C) |
 | [Veci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Veci/C) |
 | [Verify This, Your Majesty](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Verify%20This%2C%20Your%20Majesty/C%2B%2B) |
+| [Virtual Friends](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Virtual%20Friends) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Virtual%20Friends/C%2B%2B) |
 | [Volim](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Volim/C) |
 | [Weak Vertices](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Weak%20Vertices/Python%203) |
 | [Welcome to Code Jam (Easy)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Welcome%20to%20Code%20Jam%20(Easy)/Python%203) |
