@@ -154,6 +154,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Hitting the Targets](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets/C) |
 | [Holey N-Queens (Batman)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)/C) |
 | [Honeycomb Walk](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk/C) |
+| [Hot Dogs in Manhattan](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hot%20Dogs%20in%20Manhattan) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hot%20Dogs%20in%20Manhattan/C) |
 | [House of Cards](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/House%20of%20Cards/C) |
 | [How Many Digits](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/How%20Many%20Digits/C) |
 | [I Can Guess the Data Structure!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Can%20Guess%20the%20Data%20Structure!) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Can%20Guess%20the%20Data%20Structure!/C%2B%2B) |
