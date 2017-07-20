@@ -321,6 +321,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Timebomb](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Timebomb/C) |
 | [Toilet Seat](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Toilet%20Seat/C) |
 | [Torn To Pieces](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Torn%20To%20Pieces) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Torn%20To%20Pieces/Java) |
+| [Track Smoothing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Track%20Smoothing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Track%20Smoothing/C) |
 | [Train Passengers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Train%20Passengers) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Train%20Passengers/C) |
 | [Travelling Salesperson 2D](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Travelling%20Salesperson%202D/Python%203) |
 | [Treasure Hunt](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Treasure%20Hunt/C%2B%2B) |
