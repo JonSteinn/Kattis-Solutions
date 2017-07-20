@@ -61,6 +61,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Block Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Block%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Block%20Game/C) |
 | [Bobby's Bet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bobby's%20Bet/C) |
 | [Booking a Room](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Booking%20a%20Room/C) |
+| [Bottled-Up Feelings](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bottled-Up%20Feelings) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bottled-Up%20Feelings/C) |
 | [Bounding Robots](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bounding%20Robots/C) |
 | [Bus Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus%20Numbers/C%2B%2B) |
 | [Bus](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bus/C)
@@ -238,6 +239,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Planina](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planina/C) |
 | [Planting Trees](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Planting%20Trees/C%2B%2B) |
 | [Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polygon%20Area/Python%203) |
+| [Polynomial Multiplication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polynomial%20Multiplication%201) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Polynomial%20Multiplication%201/C) |
 | [Popular Vote](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Popular%20Vote) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Popular%20Vote/C%2B%2B) |
 | [Pot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pot/Go) |
 | [Preludes](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Preludes/C) |
@@ -301,6 +303,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Sum Kind of Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20Kind%20of%20Problem/Go) |
 | [Sum of the others](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20of%20the%20Others) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sum%20of%20the%20Others/Python%203) |
 | [Sums](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sums/Python%203) |
+| [Sylvester Construction](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sylvester%20Construction) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sylvester%20Construction/C) |
 | [Symmetric Order](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Symmetric%20Order/Java) |
 | [Synchronizing Lists](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Synchronizing%20Lists/Java) |
 | [T9 Spelling](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/T9%20Spelling/Python%203) |
