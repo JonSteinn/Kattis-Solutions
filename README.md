@@ -21,6 +21,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Adding Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words/Python%203) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
 | [Alien Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers/Python%203) |
+| [All Different Directions](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20Different%20Directions) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20Different%20Directions/Python%203) |
 | [All about that base](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/All%20about%20that%20base/C%2B%2B) |
 | [Almost Perfect](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Perfect/C) |
 | [Almost Union-Find](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Union-Find) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Almost%20Union-Find/Python%203) |
