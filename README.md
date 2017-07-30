@@ -133,6 +133,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Fridge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fridge/C) |
 | [Fun House](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fun%20House) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fun%20House/C) |
 | [Functional Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Functional%20Fun/Python%203) |
+| [Game Rank](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Game%20Rank) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Game%20Rank/C) |
 | [Get to Work](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work/C) |
 | [Getting Gold](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold/C%2B%2B) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
