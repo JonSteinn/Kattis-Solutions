@@ -92,6 +92,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Convex Polygon Area](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Convex%20Polygon%20Area/C) |
 | [Counting Stars](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/C%2B%2B), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Stars/Java) |
 | [Counting Subsequences (Hard)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Subsequences%20(Hard)) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Subsequences%20(Hard)/C%2B%2B) |
+| [Counting Triangles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Triangles/Java) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Counting%20Triangles/Java) |
 | [Crne](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne/C) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
 | [Cudoviste](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste/C) |
