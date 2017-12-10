@@ -303,6 +303,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Speed Limit](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Speed%20Limit/Go) |
 | [Stacking Cups](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stacking%20Cups/Go) |
 | [Stand on Zanzibar](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stand%20on%20Zanzibar/Java) |
+| [Star Arrangements](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Star%20Arrangements) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Star%20Arrangements/C) |
 | [Statistics](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Statistics) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Statistics/C) |
 | [Sticky Situation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sticky%20Situation) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sticky%20Situation/Python%203) |
 | [Stuck In A Time Loop](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stuck%20In%20A%20Time%20Loop) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Stuck%20In%20A%20Time%20Loop/Go) |
