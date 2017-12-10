@@ -43,6 +43,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Bank Queue](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bank%20Queue) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bank%20Queue/C) |
 | [Bard](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Bard/Python%203) |
 | [Batmanacci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batmanacci/Python%203) |
+| [Batter Up](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batter%20Up) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Batter%20Up/C) |
 | [Battle Simulation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Battle%20Simulation/C) |
 | [Beat the Spread!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beat%20the%20Spread!/C) |
 | [Beavergnaw](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Beavergnaw/C) |
@@ -206,6 +207,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Mosquito Multiplication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mosquito%20Multiplication/C) |
 | [Mountain Biking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Mountain%20Biking/C) |
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
+| [Nasty Hacks](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
 | [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
@@ -253,6 +255,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Prsteni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prsteni/C) |
 | [Prva](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Prva/Java) |
 | [Ptice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ptice/Java) |
+| [Quadrant Selection](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quadrant%20Selection) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quadrant%20Selection/C) |
 | [Quick Brown Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Brown%20Fox/C) |
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
 | [Quite a Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem/C) |
