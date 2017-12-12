@@ -178,6 +178,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Island Hopping](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping/C) |
 | [Jabuke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke/C) |
+| [Judging Moose](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Moose) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Moose/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
 | [Jury Jeopardy](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jury%20Jeopardy/Python%203) |
