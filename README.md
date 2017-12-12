@@ -101,6 +101,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
 | [Daylight Saving Time](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Daylight%20Saving%20Time) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Daylight%20Saving%20Time/C)
+| [Death Knight Hero](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Death%20Knight%20Hero) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Death%20Knight%20Hero/C) |
 | [Deathstart](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar/C) |
 | [Deduplicating Files](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files/Python%203) |
 | [Detailed Differences](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/Go) |
@@ -153,9 +154,11 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Heliocentric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heliocentric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heliocentric/C) |
 | [Hello World!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!) | [C#](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%23), [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%2B%2B), [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Go), [Haskell](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Haskell), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Java) |
 | [Help Me With The Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Help%20Me%20With%20The%20Game) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Help%20Me%20With%20The%20Game/Python%203) |
+| [Help a PhD candiate out!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Help%20a%20PhD%20candidate%20out! | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Help%20a%20PhD%20candidate%20out!/C) |
 | [Herman](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Herman) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Herman/C) |
 | [Hidden Password](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hidden%20Password) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hidden%20Password/C) |
 | [Hiding Places](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hiding%20Places/Java) |
+| [Hissing Microphone](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hissing%20Microphone) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hissing%20Microphone/C) |
 | [Hitting the Targets](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hitting%20the%20Targets/C) |
 | [Holey N-Queens (Batman)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Holey%20N-Queens%20(Batman)/C) |
 | [Honeycomb Walk](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Honeycomb%20Walk/C) |
@@ -209,9 +212,11 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
 | [Nasty Hacks](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
+| [No Duplicates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates/Python) |
 | [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
 | [Odd Binomial Coefficients](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients/C) |
+| [Odd Gnome](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Gnome) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Gnome/C) |
 | [Odd Man Out](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Man%20Out/Java) |
 | [Oddities](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oddities/Go) |
 | [Oktalni](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Oktalni/C) |
