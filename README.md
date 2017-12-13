@@ -18,6 +18,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [ACM Contest Scoring](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ACM%20Contest%20Scoring/Go) |
 | [ASCII Figure Rotation](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ASCII%20Figure%20Rotation) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ASCII%20Figure%20Rotation/Python%203) |
 | [Aaah!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Aaah!/C) |
+| [Above Average](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Above%20Average) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Above%20Average/C) |
 | [Adding Words](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Adding%20Words/Python%203) |
 | [Akcija](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Akcija/C%2B%2B) |
 | [Alien Numbers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Alien%20Numbers/Python%203) |
@@ -97,6 +98,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Crne](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Crne/C) |
 | [Cryptographer's Conundrum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cryptographer's%20Conundrum/Go) |
 | [Cudoviste](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Cudoviste/C) |
+| [DRM Messages](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DRM%20Messages) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DRM%20Messages/C) |
 | [DVDs](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/DVDs/C) |
 | [Darts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Darts/C) |
 | [Datum](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Datum/C) |
@@ -124,6 +126,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Even Up Solitaire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Even%20Up%20Solitaire/C) |
 | [Exam Redistribution](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Exam%20Redistribution) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Exam%20Redistribution/C) |
 | [Faktor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Faktor/C) |
+| [Falling Apart](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Falling%20Apart) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Falling%20Apart/C) |
 | [False Sense of Security](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/False%20Sense%20of%20Security/Python%203) |
 | [Filip](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Filip/C) |
 | [Fire](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fire) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Fire/C%2B%2B) |
@@ -148,6 +151,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Guess the Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guess%20the%20Number/C) |
 | [Guessing Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guessing%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Guessing%20Game/C) |
 | [Half a Cookie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Half%20a%20Cookie/C) |
+| [Hanging Out on the Terrace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hanging%20Out%20on%20the%20Terrace) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hanging%20Out%20on%20the%20Terrace/C) |
 | [Happy Happy Prime Prime](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime/C%2B%2B) |
 | [Hay Points](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points/Python%203) |
 | [Height Ordering](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering/C) |
@@ -170,6 +174,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [I'm Thinking of a Number](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I'm%20Thinking%20of%20a%20Number) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I'm%20Thinking%20of%20a%20Number/C) |
 | [I Repeat Myself I Repeat Myself I Repeat](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Repeat%20Myself%20I%20Repeat%20Myself%20I%20Repeat) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I%20Repeat%20Myself%20I%20Repeat%20Myself%20I%20Repeat/Python%203) |
 | [I've Been Everywhere, Man](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/I've%20Been%20Everywhere%2C%20Man/Python%203) |
+| [ICPC Awards](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Awards) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Awards/Python%203) |
 | [ICPC Tutorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ICPC%20Tutorial/C) |
 | [Identifying Map Tiles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Identifying%20Map%20Tiles/C) |
 | [Imperial Measurement](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Imperial%20Measurement/Python%203) |
@@ -215,6 +220,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
 | [No Duplicates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates/Python) |
 | [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
+| [Number Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Number%20Fun) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Number%20Fun/C) |
 | [Numbers On a Tree](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Numbers%20On%20a%20Tree/C) |
 | [Odd Binomial Coefficients](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Binomial%20Coefficients/C) |
 | [Odd Gnome](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Gnome) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Odd%20Gnome/C) |
@@ -266,6 +272,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Quick Estimates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quick%20Estimates/C) |
 | [Quite a Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Quite%20a%20Problem/C) |
 | [R2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/R2/C) |
+| [Racing Around the Alphabet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Racing%20Around%20the%20Alphabet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Racing%20Around%20the%20Alphabet/C) |
 | [Radio Commercials](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials/Python%203) |
 | [Ragged Right](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right/C) |
 | [Rational Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic/C) |
