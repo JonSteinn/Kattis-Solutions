@@ -218,6 +218,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [N-Puzzle](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/N-Puzzle/C) |
 | [Nasty Hacks](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nasty%20Hacks/C) |
 | [Natrij](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Natrij/C) |
+| [Nine Knights](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nine%20Knights) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Nine%20Knights/C) |
 | [No Duplicates](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/No%20Duplicates/Python) |
 | [Not Amused](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Not%20Amused/C%2B%2B) |
 | [Number Fun](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Number%20Fun) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Number%20Fun/C) |
@@ -275,6 +276,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Racing Around the Alphabet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Racing%20Around%20the%20Alphabet) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Racing%20Around%20the%20Alphabet/C) |
 | [Radio Commercials](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Radio%20Commercials/Python%203) |
 | [Ragged Right](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Ragged%20Right/C) |
+| [Railroad](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Railroad) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Railroad/C) |
 | [Rational Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic/C) |
 | [Recount](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Recount) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Recount/Python%203) |
 | [Repeating Decimal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/Python%203) |
@@ -334,6 +336,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Backslash Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem/Python%203) |
 | [The Easiest Problem Is This One](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Easiest%20Problem%20Is%20This%20One/Go) |
+| [The Key to Cryptography](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Key%20to%20Cryptography) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Key%20to%20Cryptography/C) |
 | [The Mailbox Manufacturers Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Mailbox%20Manufacturers%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Mailbox%20Manufacturers%20Problem/C) |
 | [The Owl and the Fox](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Owl%20and%20the%20Fox/C) |
 | [Three Powers](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Three%20Powers/Python%203) |
