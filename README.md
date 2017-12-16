@@ -106,6 +106,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Death Knight Hero](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Death%20Knight%20Hero) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Death%20Knight%20Hero/C) |
 | [Deathstart](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deathstar/C) |
 | [Deduplicating Files](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Deduplicating%20Files/Python%203) |
+| [Delicious Bubble Tea](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Delicious%20Bubble%20Tea) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Delicious%20Bubble%20Tea/C) |
 | [Detailed Differences](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Detailed%20Differences/Go) |
 | [Dice Cup](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Cup/Go) |
 | [Dice Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Dice%20Game/C) |
@@ -143,6 +144,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Game Rank](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Game%20Rank) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Game%20Rank/C) |
 | [Get to Work](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Get%20to%20Work/C) |
 | [Getting Gold](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Getting%20Gold/C%2B%2B) |
+| [GlitchBot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/GlitchBot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/GlitchBot/C) |
 | [Goldbach's Conjecture](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Goldbach's%20Conjecture/C) |
 | [Grandpa Bernie](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grandpa%20Bernie/Python%203) |
 | [Grass Seed Inc](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Grass%20Seed%20Inc/Go) |
@@ -154,6 +156,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Hanging Out on the Terrace](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hanging%20Out%20on%20the%20Terrace) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hanging%20Out%20on%20the%20Terrace/C) |
 | [Happy Happy Prime Prime](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Happy%20Happy%20Prime%20Prime/C%2B%2B) |
 | [Hay Points](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hay%20Points/Python%203) |
+| [Heart Rate](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heart%20Rate) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heart%20Rate/C) |
 | [Height Ordering](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Height%20Ordering/C) |
 | [Heliocentric](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heliocentric) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Heliocentric/C) |
 | [Hello World!](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!) | [C#](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%23), [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C%2B%2B), [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/C), [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Go), [Haskell](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Haskell), [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Hello%20World!/Java) |
@@ -183,6 +186,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Inverse Factorial](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Inverse%20Factorial/C) |
 | [Island Hopping](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Island%20Hopping/C) |
 | [Jabuke](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jabuke/C) |
+| [Jewelry Box](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jewelry%20Box) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jewelry%20Box/C) |
 | [Judging Moose](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Moose) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Moose/C) |
 | [Judging Troubles](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Judging%20Troubles/C%2B%2B) |
 | [Jumbled Communication](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Jumbled%20Communication/Python%203) |
@@ -246,6 +250,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Peg](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peg/C) |
 | [Peragrams](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Peragrams/C) |
 | [Perket](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Perket/C) |
+| [Permutation Descent Counts](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Descent%20Counts) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Descent%20Counts/C) |
 | [Permutation Encryption](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permutation%20Encryption/C%2B%2B) |
 | [Permuted Arithmetic Sequence](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permuted%20Arithmetic%20Sequence) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Permuted%20Arithmetic%20Sequence/C) |
 | [Pervasive Heart Monitor](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor) | [Java](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pervasive%20Heart%20Monitor/Java) |
@@ -299,6 +304,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Semafori](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Semafori) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Semafori/C) |
 | [Server](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Server/C) |
 | [Seven Wonders](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Seven%20Wonders/Go) |
+| [Sheba's Amoebas](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sheba's%20Amoebas) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sheba's%20Amoebas/C) |
 | [Shopaholic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Shopaholic/C) |
 | [Sibice](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sibice/C)
 | [Sierpiński Circumference](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Sierpi%C5%84ski%20Circumference/C) |
@@ -332,6 +338,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Tajna](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tajna) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tajna/C) |
 | [Take Two Stones](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Take%20Two%20Stones/Go) |
 | [Tarifa](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tarifa/C) |
+| [Tetris](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tetris) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Tetris/C) |
 | [Texture Analysis](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Texture%20Analysis/Python%203) |
 | [The Amazing Human Cannonball](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball) | [Go](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Amazing%20Human%20Cannonball/Go) |
 | [The Backslash Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/The%20Backslash%20Problem/Python%203) |
