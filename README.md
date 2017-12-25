@@ -12,6 +12,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [A Different Problem](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Different%20Problem/C) |
 | [A List Game](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20List%20Game/C) |
 | [A New Alphabet](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet) | [C++](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/C%2B%2B), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20New%20Alphabet/Python%203) |
+| [A Rational Sequence (Take 3)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%20(Take%203)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%20(Take%203)/C) |
 | [A Rational Sequence 2](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Rational%20Sequence%202/C) |
 | [A Real Challenge](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/A%20Real%20Challenge/C) |
 | [ABC](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/ABC/C) |
