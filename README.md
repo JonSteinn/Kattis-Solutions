@@ -242,6 +242,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Parking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking/C) |
 | [Parking(2)](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking(2)) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Parking(2)/C) |
 | [Pascal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Pascal/C) |
+| [Password Hacking](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Password%20Hacking) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Password%20Hacking/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Password%20Hacking/Python%203) |
 | [Path Tracing](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Path%20Tracing/C) |
 | [Patuljci](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Patuljci/C) |
 | [Paul Eigon](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Paul%20Eigon/C) |
@@ -284,6 +285,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 | [Railroad](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Railroad) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Railroad/C) |
 | [Rational Arithmetic](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Rational%20Arithmetic/C) |
 | [Recount](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Recount) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Recount/Python%203) |
+| [Red Rover](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Red%20Rover) | [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Red%20Rover/Python%203) |
 | [Repeating Decimal](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/C), [Python 3](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Repeating%20Decimal/Python%203) |
 | [Reseto](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reseto) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reseto/C) |
 | [Reverse Rot](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/Reverse%20Rot/C) |
