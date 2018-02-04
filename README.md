@@ -2,7 +2,7 @@
 Solutions to the [Kattis archives](https://open.kattis.com/).
 
 ## Problems
-| Problems | Languages | :link: |
+| Problem | Languages | :link: |
 | - | - | - |
 | [10 Kinds of People](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/10%20Kinds%20of%20People/C) | [:cat:](https://open.kattis.com/problems/10kindsofpeople) |
 | [2048](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048) | [C](https://github.com/JonSteinn/Kattis-Solutions/tree/master/src/2048/C) | [:cat:](https://open.kattis.com/problems/2048) |
