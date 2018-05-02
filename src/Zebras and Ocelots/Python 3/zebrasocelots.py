@@ -1,0 +1,1 @@
+print((lambda n: sum(2**(n-i-1) for i in range(n) if input() == 'O'))(int(input())))
