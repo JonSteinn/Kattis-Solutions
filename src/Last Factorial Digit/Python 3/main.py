@@ -1,0 +1,1 @@
+print('\n'.join((lambda z: '6' if z==3 else (str(z) if z < 5 else '0'))(int(input())) for _ in range(int(input()))))
