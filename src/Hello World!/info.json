@@ -1,0 +1,14 @@
+{
+  "folder": "Hello World!",
+  "languages": [
+    "C",
+    "C#",
+    "C++",
+    "Go",
+    "Haskell",
+    "Java",
+    "Python 3"
+  ],
+  "url": "https://open.kattis.com/problems/hello",
+  "title": "Hello World!"
+}
