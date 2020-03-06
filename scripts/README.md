@@ -22,11 +22,11 @@ Suppose we have the following directory:
         │   └── main.java
         └── urlfile
 ```
-Each problem in `new_probs` must have this structure, that is the programming language as a directory and then the files and for each problem there must be a file containing a single line with the link to the problem on Kattis. They must all share a name. To run the script:
+Each problem in `new_probs` must have this structure, that is the programming language as a directory and then the files and for each problem there must be a file containing a single line with the link to the problem on Kattis. The url files must all share the same name. The problem directory itself can be named whatever you want (e.g. `Problem 1`, `Problem 2`) as Kattis is queried for final directory names in src. To run the script:
 ```Bash
 python scripts/add.py new_probs urlfile myrepo
 ```
-In my case, `myrepo` would me `https://github.com/JonSteinn/Kattis-Solutions`. The script has default values of `tmp`, `url.txt` and my repo.
+In my case, `myrepo` would me `https://github.com/JonSteinn/Kattis-Solutions`. The script has default values of `tmp`, `url.txt` and `https://github.com/JonSteinn/Kattis-Solutions`.
 
 ## Url checker
 This scripts extracts all links from the `README.md` file and checks if a get request to them returns a 200 status code.
