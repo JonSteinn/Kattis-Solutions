@@ -11,14 +11,43 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 INVALID = {'\\', '/', ':', '*', '?', '<', '>', '|'}
 
-def create_readme():
-    s = """# Kattis Solutions
+def add_problem_to_readme(f, repo, info):
+    """Create a README row for the problem.
+    
+    Arguments:
+        f {IO} -- The file object for the README file
+        repo {string} -- The url for the repository being used
+        info {dictionary} -- The information json for the problem
+    """
+    title_url = (lambda a: f'{repo}/{a}')(urlify(info['folder']))
+    lang_urls = ','.join(list(map(lambda l: f'[{l}]({title_url}/{urlify(l)})', sorted(info['languages']))))
+    title_url = (lambda a: f'[{a}]({title_url})')(info['title'])
+    kattis_url = (lambda a: f'[![:cat:](https://open.kattis.com/favicon)]({a})')(info['url'])
+    f.write(f'| {title_url} | {lang_urls} | {kattis_url} |\n')
+
+def add_json_to_readme(f, repo):
+    """Read problem's info json and convert it into README row.
+    
+    Arguments:
+        f {IO} -- The file object for the README file
+        repo {string} -- The url for the repository being used
+    """
+    for prob_folder in tqdm(ROOT.joinpath('src').glob('*')):
+        with open(ROOT.joinpath('src', prob_folder, 'info.json')) as json_f:
+            info = json.loads(json_f.read())
+            add_problem_to_readme(f, repo, info)
+
+def create_readme(repo):
+    pre = """# Kattis Solutions
 Solutions to the [Kattis archives](https://open.kattis.com/).
 
 ## Problems
 | Problem | Languages | :link: |
-| - | - | - |"""
-    pass
+| - | - | - |
+"""
+    with open(ROOT.joinpath('README.md'), 'w', encoding='utf-8') as f:
+        f.write(pre)
+        add_json_to_readme(f, repo)
 
 def create_json(prob_dir, title, url, languages):
     """Create an information json for the problem.
@@ -152,19 +181,20 @@ def move_probs_to_src(folder, url_file):
 
 def main(args):
     """Main method, a starting point. Optional arguments
-    are the name of the working folder of new solutions
-    and the name of the file containing problem urls.
-    
+    are the name of the working folder of new solutions, 
+    the name of the file containing problem urls and the
+    repository being used.
+
     Arguments:
         args {list} -- List of command line arguments
     """
-    d_args = ['tmp', 'url.txt']
+    d_args = ['tmp', 'url.txt', 'https://github.com/JonSteinn/Kattis-Solutions']
     for i, a in enumerate(args):
         d_args[i] = a
     print('Moving folders')
-    move_probs_to_src(d_args[0], d_args[1])
+    #move_probs_to_src(d_args[0], d_args[1])
     print('Recreating README.md')
-    create_readme()
+    create_readme(d_args[2].rstrip('/') + '/tree/master/src')
 
 if __name__ == "__main__":
     main(sys.argv[1:])
