@@ -1,4 +1,5 @@
 # Scripts
+NOTE: This is not complete for all scenarios and not thoroughly tested. Version 0.x if you will.
 
 ## Add
 This script will take all problems solutions in a temporary working folder, move them into src and create a `info.json` file for each problem and finally update the `README.md` file for the problems. The only thing required is the problem's KATTIS url.

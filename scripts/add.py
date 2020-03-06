@@ -192,7 +192,7 @@ def main(args):
     for i, a in enumerate(args):
         d_args[i] = a
     print('Moving folders')
-    #move_probs_to_src(d_args[0], d_args[1])
+    move_probs_to_src(d_args[0], d_args[1])
     print('Recreating README.md')
     create_readme(d_args[2].rstrip('/') + '/tree/master/src')
 
