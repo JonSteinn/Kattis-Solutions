@@ -1,0 +1,1 @@
+print(1+sum((lambda s: len(s) == 1 and '_' in s)(set(x)) for x in zip(*map(tuple, (input() for _ in range(int(input().split()[0])))))))
