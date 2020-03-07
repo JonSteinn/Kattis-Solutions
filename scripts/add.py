@@ -2,7 +2,7 @@ import requests
 import json
 import shutil
 import sys
-from tqdm import tqdm 
+from tqdm import tqdm
 from pathlib import Path
 from urllib.parse import quote as urlify
 from bs4 import BeautifulSoup
@@ -13,7 +13,7 @@ INVALID = {'\\', '/', ':', '*', '?', '<', '>', '|'}
 
 def add_problem_to_readme(f, repo, info):
     """Create a README row for the problem.
-    
+
     Arguments:
         f {IO} -- The file object for the README file
         repo {string} -- The url for the repository being used
@@ -27,12 +27,12 @@ def add_problem_to_readme(f, repo, info):
 
 def add_json_to_readme(f, repo):
     """Read problem's info json and convert it into README row.
-    
+
     Arguments:
         f {IO} -- The file object for the README file
         repo {string} -- The url for the repository being used
     """
-    for prob_folder in tqdm(ROOT.joinpath('src').glob('*')):
+    for prob_folder in tqdm(sorted(ROOT.joinpath('src').glob('*'))):
         with open(ROOT.joinpath('src', prob_folder, 'info.json')) as json_f:
             info = json.loads(json_f.read())
             add_problem_to_readme(f, repo, info)
@@ -51,7 +51,7 @@ Solutions to the [Kattis archives](https://open.kattis.com/).
 
 def create_json(prob_dir, title, url, languages):
     """Create an information json for the problem.
-    
+
     Arguments:
         prob_dir {Path} -- The problem's path in src
         title {string} -- The problem's Kattis title
@@ -68,7 +68,7 @@ def create_json(prob_dir, title, url, languages):
 
 def create_folder(folder, title, url, fname):
     """Create a new folder in the src folder for a given problem.
-    
+
     Arguments:
         folder {Path} -- The problem's directory (in tmp, or other)
         title {string} -- The problem's Kattis title
@@ -89,17 +89,17 @@ def join_folders(folder, fname):
     # TODO
     # Will do when this scenario arises for myself...
     pass
-    
+
 def check_for_existing_and_duplicates(fname, url):
     """Check if the folder name already exists and in that case,
     check if it's the same problem by comparing urls (which are
     unique). If folder name exists but for a different problem,
     we append '(<version>)' to the fname, incremented as needed.
-    
+
     Arguments:
         fname {string} -- The intended folder name for the problem
         url {string} -- The Kattis url for the problem
-    
+
     Returns:
         Tuple -- The versioned name of the folder and True iff exists
     """
@@ -121,10 +121,10 @@ def check_for_existing_and_duplicates(fname, url):
 def folderify(name):
     """Return a copy of the input string without any invalid
     characters and not ending on a period.
-    
+
     Arguments:
         name {string} -- The name of the problem on Kattis
-    
+
     Returns:
         string -- A more suitable name for a folder
     """
@@ -132,10 +132,10 @@ def folderify(name):
 
 def get_kattis_title(url):
     """Scrape the problem's title from Kattis.
-    
+
     Arguments:
         url {string} -- The Kattis url of the problem
-    
+
     Returns:
         string -- The title of the problem
     """
@@ -147,7 +147,7 @@ def get_kattis_title(url):
 def process_problem_folder(folder, url):
     """Process a single solution folder, extracting needed info
     and moving into the src folder.
-    
+
     Arguments:
         folder {Path} -- The full path to the new solution
         url {string} -- The Kattis url of the problem
@@ -162,11 +162,11 @@ def process_problem_folder(folder, url):
 
 def move_probs_to_src(folder, url_file):
     """Move content of the new solutions into the src folder.
-    
+
     Arguments:
         folder {string} -- The name of the working folder for new solutions
         url_file {string} -- the name of the url file needed in each solution
-    
+
     Raises:
         Exception: When url file is missing in any problem
     """
@@ -181,7 +181,7 @@ def move_probs_to_src(folder, url_file):
 
 def main(args):
     """Main method, a starting point. Optional arguments
-    are the name of the working folder of new solutions, 
+    are the name of the working folder of new solutions,
     the name of the file containing problem urls and the
     repository being used.
 
