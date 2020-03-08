@@ -1,0 +1,1 @@
+print('Yes' if (lambda a,b : (lambda number: a == b or (a[1:] == b and a[0] in number and len(a)-1 == len(b)) or (a[:-1] == b and a[-1] in number and len(a)-1 == len(b)) or ''.join(x.upper() if x.islower() else x.lower() for x in b) == a)({str(i) for i in range(10)}))(input(), input()) else 'No')
