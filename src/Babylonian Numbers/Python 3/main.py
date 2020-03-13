@@ -1,0 +1,1 @@
+print((lambda _60: '\n'.join(str(sum(a*b for a,b in zip(reversed(list(map(lambda z: int(z) if z else 0, input().split(',')))),_60))) for _ in range(int(input()))))([1, 60, 3600, 216000, 12960000, 777600000, 46656000000, 2799360000000]))
