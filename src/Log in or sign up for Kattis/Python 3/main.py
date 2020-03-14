@@ -1,0 +1,1 @@
+print((lambda p: sum((lambda l: (max((i+1)*p-x for i,x in enumerate(sorted(l))),min(l)))(list(map(int,input().split())))))(int(input().split()[1])))
