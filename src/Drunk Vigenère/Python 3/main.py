@@ -1,0 +1,1 @@
+print(''.join(chr(ord('A') + ((ord(a)-ord('A')) + (1 if i & 1 else -1)*(ord(b)-ord('A'))) % 26) for i,(a,b) in enumerate(zip(input(),input()))))
