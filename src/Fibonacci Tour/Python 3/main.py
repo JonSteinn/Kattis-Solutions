@@ -15,7 +15,7 @@ def gen_all_fibs_less_or_equal_than(n):
 
 def filter_vertices(all_fibs):
     V, vertices = 0, {}
-    for i,v in sorted(enumerate(map(int, input().split())),key=lambda z: z[1]):
+    for i,v in enumerate(map(int, input().split())):
         if v in all_fibs:
             vertices[i] = v
             V += 1
