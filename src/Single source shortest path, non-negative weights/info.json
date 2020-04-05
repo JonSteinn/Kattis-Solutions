@@ -1,0 +1,8 @@
+{
+  "title": "Single source shortest path, non-negative weights",
+  "folder": "Single source shortest path, non-negative weights",
+  "url": "https://open.kattis.com/problems/shortestpath1",
+  "languages": [
+    "Python 3"
+  ]
+}
