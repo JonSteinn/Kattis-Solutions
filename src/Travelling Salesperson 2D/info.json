@@ -1,7 +1,8 @@
 {
   "folder": "Travelling Salesperson 2D",
   "languages": [
-    "Python 3"
+    "Python 3",
+    "C"
   ],
   "url": "https://open.kattis.com/problems/tsp",
   "title": "Travelling Salesperson 2D"
