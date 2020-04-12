@@ -1,14 +1,14 @@
 from heapq import heappop, heappush
 
 def djikstra(adj, src, dst):
-    open_set,closed_set = [(-1,src)],set()
+    open_set,closed_set = [(-1,src)],[False]*len(adj)
     while open_set:
         f, v = heappop(open_set)
         if v == dst:
             return -f
-        closed_set.add(v)
+        closed_set[v] = True
         for u,w in adj[v]:
-            if u not in closed_set:
+            if not closed_set[u]:
                 heappush(open_set,(f*w, u))
 
 def main():
