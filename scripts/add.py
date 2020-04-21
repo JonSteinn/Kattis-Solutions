@@ -1,3 +1,10 @@
+"""
+BUGS FOUND:
+
+1) Crashed when my tmp folder name was 'Divide by 100...'
+
+"""
+
 import requests
 import json
 import shutil
