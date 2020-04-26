@@ -63,8 +63,8 @@ void graph_print(Graph *g) {
         int out_deg = 0, index = 0;
         ull hash = 0;
         for (int u = 0; u < g->v; u++) {
-            if (!pow7[index]) pow7[index] = (7*pow7[index-1]) % MOD;
             if (set_contains(&g->deg[v][OUT], u)) {
+                if (!pow7[index]) pow7[index] = (7*pow7[index-1]) % MOD;
                 hash = (hash + pow7[index++] * u) % MOD;
                 out_deg++;
             }
