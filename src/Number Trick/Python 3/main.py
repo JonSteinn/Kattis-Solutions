@@ -1,9 +1,9 @@
 """
-Suppose we have a fraction a/b and we are looking for all numbers k 
+Suppose we have a fraction a/b and we are looking for all numbers k
 such that a/b * k is k but with the first letter moved to the back.
 Let k = c_0 * 10**0 + c_1 * 10**1 + ... + c_n * 10**n, that is, k is
-some integer of length n+1 (in string form k is c_0c_1...c_n). Then
-it must hold that 
+some integer of length n+1 (in string form k is c_n...c_1c_0). Then
+it must hold that
     a/b * k = c_n + (c_0*10**1 + c_1*10**2 + ... + c_[n-1]*10**n)
 or
     a * k = b * c_n + (c_0*10**1 + c_1*10**2 + ... + c_[n-1]*10**n)
@@ -16,7 +16,7 @@ or
 => k * (a - b*10) = b * c_n - b * c_n * 10**[n+1]
 => k = (b * c_n - b * c_n * 10**[n+1]) / (a-b*10)
      = b * c_n * (1 - 10**[n+1]) / (a-b*10)
-     = b * c_N * (10**[n+1] - 1) / (10*b - a)
+     = b * c_n * (10**[n+1] - 1) / (10*b - a)
 
 Now that k need to satisfy the above equation we have a small search space.
 The first number of k is never 0 so they can take any value from {1,2,...,9}
