@@ -6,7 +6,7 @@ some integer of length n+1 (in string form k is c_n...c_1c_0). Then
 it must hold that
     a/b * k = c_n + (c_0*10**1 + c_1*10**2 + ... + c_[n-1]*10**n)
 or
-    a * k = b * c_n + (c_0*10**1 + c_1*10**2 + ... + c_[n-1]*10**n)
+    a * k = b * (c_n + (c_0*10**1 + c_1*10**2 + ... + c_[n-1]*10**n))
           = b * (c_n + 10*(c_0*10**0 + c*10**1 + ... + c_[n-1]*10**[n-1]))
           = b * (c_n + 10*sum(c_i*10**i, i in [0,n-1])) + b*c_n*10**[n+1] - b*c_n*10**[n+1]
           = b * (c_n + 10*sum(c_i*10**i, i in [0,n]) - c_n*10**[n+1])
