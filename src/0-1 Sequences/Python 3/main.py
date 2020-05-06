@@ -1,5 +1,4 @@
 """
-Let _ determine an arbitrary value in our q-binary string. 
 Suppose we have a q-binary string q1q2...q_n and we arrive
 at a 1, while traversing the string in reverse order.
     <some string> 1 <some string with a zeros and b question marks>
@@ -45,7 +44,7 @@ def inversions(bstr):
             q = 0 if questions == 0 else questions * mod_pow2(questions-1)
             total = (total + z + q) % MOD
             questions += 1
-            
+
     return total
 
 def main():
@@ -54,10 +53,10 @@ def main():
 if __name__ == "__main__":
     main()
 
-    
 
 
 
 
-    
+
+
 
