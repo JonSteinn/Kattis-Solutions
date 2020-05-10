@@ -53,6 +53,21 @@ which yielded the following results:
 Knowing the last coordinates, we can then find the second to last and so on,
 using our system of equations. This way we fill all x coordinates and finally
 calculate the cost.
+
+The rest of the Sage code i wrote follows, to find optimal
+placement relations between x_[i-1], x_i and x_[i+1]:
+    x1,x2,x3,r,c,z = var('x1,x2,x3,r,c,z')
+    assume(x1>0,x2>0,x3>0,r>0,c>0,z>0,r<1)
+    center(x1,x2,r) = solve(c-x1+r*x1 == x2-c+r*x2,c)[0].right()
+    cost_x2(x1,x2,x3,r) = ((center(x1,x2,r)-x1+r*x1)^2/2
+                        + (x2-center(x1,x2,r)+r*x2)^2/2
+                        + (center(x2,x3,r)-x2+r*x2)^2/2
+                        + (x3-center(x2,x3,r)+r*x3)^2/2
+                        - (r*x2)^2/2)
+    optimal_x2(x1,x3,r) = factor(solve(diff(cost_x2(x1,x2,x3,r),x2)==0,x2)[0].right())
+    # z = (1-r^2)/2 => 2z = 1-r^2 => r^2 = 1-2z => r = sqrt(1-2z)
+    optimal_x2_z(x1,x3,z) = expand(optimal_x2(x1,x3,sqrt(1-2*z)))
+    optimal_x2_z
 """
 
 def get_last(w,n,r,z):
