@@ -3,6 +3,7 @@
   "folder": "Qanat",
   "url": "https://open.kattis.com/problems/qanat",
   "languages": [
+    "C",
     "Python 3"
   ]
 }
