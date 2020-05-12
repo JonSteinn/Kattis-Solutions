@@ -44,7 +44,7 @@ class Tactics:
         for a,b in tqdm(w_indices):
             W[a][b] = -W[a][b]
             z = correct(W,X,Y)
-            if z <= curr:
+            if z < curr:
                 W[a][b] = -W[a][b]
             else:
                 curr = z
@@ -57,15 +57,15 @@ class Tactics:
             W[c][d] = -W[c][d]
             W[e][f] = -W[e][f]
             z = correct(W,X,Y)
-            if z <= curr:
+            if z < curr:
                 W[a][b] = -W[a][b]
                 W[c][d] = -W[c][d]
                 W[e][f] = -W[e][f]
+            else:
                 if z > curr:
                     # this tasks are so long... write here so we can interupt
                     print('Found Better!')
                     IO.write_weights(W)
-            else:
                 curr = z
         return curr
 
@@ -75,14 +75,14 @@ class Tactics:
             W[a][b] = -W[a][b]
             W[c][d] = -W[c][d]
             z = correct(W,X,Y)
-            if z <= curr:
+            if z < curr:
                 W[a][b] = -W[a][b]
                 W[c][d] = -W[c][d]
+            else:
                 if z > curr:
                     # this tasks are so long... write here so we can interupt
                     print('Found Better!')
                     IO.write_weights(W)
-            else:
                 curr = z
         return curr
 
@@ -93,10 +93,14 @@ class Tactics:
             for a,b in pairs:
                 W[a][b] = -W[a][b]
             z = correct(W,X,Y)
-            if z <= curr:
+            if z < curr:
                 for a,b in pairs:
                     W[a][b] = -W[a][b]
             else:
+                if z > curr:
+                    # this tasks are so long... write here so we can interupt
+                    print('Found Better!')
+                    IO.write_weights(W)
                 curr = z
         return curr
 
