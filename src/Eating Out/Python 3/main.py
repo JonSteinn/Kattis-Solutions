@@ -1,0 +1,1 @@
+print('impossible' if (lambda n,a,b,c: a+b+c>2*n)(*map(int,input().split())) else 'possible')
