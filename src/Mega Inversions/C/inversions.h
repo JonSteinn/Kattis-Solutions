@@ -31,7 +31,7 @@ typedef struct {
 
 void ic_process_next_element(InversionCounter *ic, int x) {
     fwt_increment(ic->counter, x);
-    // Can't have smaller if n
+    // Can't have larger if n
     if (x != ic->n) {
         fwt_update(ic->left_larger, x, fwt_sum_from(ic->counter, x+1));
         // Can't be least of three uniques if n-1
