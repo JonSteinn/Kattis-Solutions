@@ -17,6 +17,19 @@ was empty.
 Even so, better to place guards as that is probably somewhat of a
 likely mistake to repeat itself. Assert that a folder is not empty
 maybe or even predefine allowed languages are options.
+
+TODO:
+1)
+Support for adding a language for an existing problem
+
+2)
+Support for overriding an existing solution in the same language
+
+3)
+Add profile link and scrape score + rank and add to readme? 
+
+4) Show problems done, average score etc (would be nice if 
+Kattis provided better user stats)
 """
 
 import requests
