@@ -1,8 +1,22 @@
 """
 BUGS FOUND:
 
-1) Crashed when my tmp folder name was 'Divide by 100...'
+1) 
+Crashed when my tmp folder name was 'Divide by 100...'
 
+2)
+Not sure if a bug or I messed something up in my folder structure.
+Probably the latter but better to take note. Flipping Patties and
+Multigram have main.py as a language. The most likely thing is that
+I placed main.py in the problem's root dir and the Python 3 folder
+was empty.
+    prblm/
+        url.txt
+        main.py
+        Python 3/
+Even so, better to place guards as that is probably somewhat of a
+likely mistake to repeat itself. Assert that a folder is not empty
+maybe or even predefine allowed languages are options.
 """
 
 import requests

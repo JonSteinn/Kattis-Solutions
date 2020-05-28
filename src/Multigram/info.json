@@ -3,7 +3,6 @@
   "folder": "Multigram",
   "url": "https://open.kattis.com/problems/multigram",
   "languages": [
-    "main.py",
     "Python 3"
   ]
 }
