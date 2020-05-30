@@ -1,6 +1,6 @@
 import sys
 from math import gcd
-from collections import Counter, defaultdict
+from collections import Counter
 from functools import reduce
 
 class StretchedString:
