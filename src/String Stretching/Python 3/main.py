@@ -83,40 +83,18 @@ class StretchedString:
         return False if x == -1 else self._pruner_rec_helper(rem_string,substr, k, x)
 
     def _pruner_rec_helper(self, string, substr, k, x):
-        # TODO: wrap into re-usable units
-        w = string.find(substr, x+1)
-        if w == -1:
-            string = string[:x] + string[x+k:]
-            if not string:
-                self.known.add(substr)
-                return True
-            z = string.find(substr)
-            return False if z == -1 else self._pruner_rec_helper(string, substr, k, z)
-        ww = string.find(substr,w+1)
-        if ww == -1:
-            str1,str2 = string[:x] + string[x+k:], string[:w] + string[w+k:]
-            if not str1 or not str2:
-                self.known.add(substr)
-                return True
-            z1,z2 = str1.find(substr), str2.find(substr)
-            if z1 == z2 == -1:
-                return False
-            else:
-                return self._pruner_rec_helper(str1, substr, k, z1) or \
-                    self._pruner_rec_helper(str2, substr, k, z2)
-        if string.find(substr,ww+1) == -1:
-            str1,str2,str3 = string[:x] + string[x+k:], string[:w] + string[w+k:], string[:ww] + string[ww+k:]
-            if not str1 or not str2 or not str3:
-                self.known.add(substr)
-                return True
-            z1,z2,z3 = str1.find(substr), str2.find(substr), str3.find(substr)
-            if z1 == z2 == z3 == -1:
-                return False
-            else:
-                return self._pruner_rec_helper(str1, substr, k, z1) or \
-                    self._pruner_rec_helper(str2, substr, k, z2) or \
-                    self._pruner_rec_helper(str3, substr, k, z3)
-        return True
+        lis = [x]
+        while len(lis) < 5 and lis[-1] != -1:
+            lis.append(string.find(substr, lis[-1]+1))
+        if lis[-1] != -1:
+            return True
+        lis.pop()
+        strings = [string[:z] + string[z+k:] for z in lis]
+        if any(not z for z in strings):
+            self.known.add(substr)
+            return True
+        zs = [s.find(substr) for s in strings]
+        return False if set(zs) == {-1} else any(self._pruner_rec_helper(s, substr, k, z) for s,z in zip(strings,zs))
 
     def _is_stretchable(self,substr):
         if substr in self.known:
@@ -138,11 +116,8 @@ class StretchedString:
     def _dp(self,i,l,r):
         if i == self.sstrl:
             return l==r
-
         if self.mem[i][l][r] == StretchedString.UNCERTAIN:
-            if l > r:
-                self.mem[i][l][r] = StretchedString.FALSE
-            elif self.substr[i] != self.string[l]:
+            if self.substr[i] != self.string[l]:
                 self.mem[i][l][r] = StretchedString.FALSE
             elif self._dp(i+1, l+1, r):
                 self.mem[i][l][r] = StretchedString.TRUE
