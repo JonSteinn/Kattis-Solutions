@@ -3,6 +3,7 @@
   "folder": "String Stretching",
   "url": "https://open.kattis.com/problems/stretching",
   "languages": [
+    "C++",
     "Python 3"
   ]
 }

@@ -117,7 +117,7 @@ class StretchedString:
         if i == self.sstrl:
             return l==r
         if self.mem[i][l][r] == StretchedString.UNCERTAIN:
-            if self.substr[i] != self.string[l]:
+            if self.substr[i] != self.string[l] or self.substr[-1]!= self.substr[r-1]:
                 self.mem[i][l][r] = StretchedString.FALSE
             elif self._dp(i+1, l+1, r):
                 self.mem[i][l][r] = StretchedString.TRUE
