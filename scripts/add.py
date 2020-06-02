@@ -30,6 +30,8 @@ Add profile link and scrape score + rank and add to readme?
 
 4) Show problems done, average score etc (would be nice if 
 Kattis provided better user stats)
+
+5) Prog.lang stats (e.g. how many in each, percentage etc)
 """
 
 import requests
