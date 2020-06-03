@@ -32,6 +32,8 @@ Add profile link and scrape score + rank and add to readme?
 Kattis provided better user stats)
 
 5) Prog.lang stats (e.g. how many in each, percentage etc)
+
+6) Add git add,commit,push to script? 
 """
 
 import requests
