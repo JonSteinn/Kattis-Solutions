@@ -1,0 +1,1 @@
+print(chr(ord('A') + (lambda lis, score: next((i for i, x in enumerate(lis) if score >= x), 5))(map(int, input().split()), int(input()))))
