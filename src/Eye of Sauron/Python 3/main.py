@@ -1,0 +1,1 @@
+print(["fix", "correct"][2-len(set(map(len, input().split("()"))))])

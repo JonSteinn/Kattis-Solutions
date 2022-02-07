@@ -1,0 +1,1 @@
+print((lambda n: f"{'S(' * n}0{')' * n}")(input().count('S') * input().count('S')))
