@@ -1,0 +1,1 @@
+print((lambda l, r: 'nope' if 2 * r**2 - l**2 < 0 else 'fits')(*map(int, input().split())))
