@@ -1,0 +1,1 @@
+print(int(not sum(a*b for a,b in zip(map(int, input().replace("-", "")), [4,3,2,7,6,5,4,3,2,1])) % 11))

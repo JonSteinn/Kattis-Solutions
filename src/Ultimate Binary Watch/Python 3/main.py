@@ -1,0 +1,1 @@
+print((lambda a,b,c,d: '\n'.join(f"{a[i]} {b[i]}   {c[i]} {d[i]}" for i in range(4)))(*map(lambda x: f"{int(x):04b}".replace('0','.').replace('1','*'), input())))
