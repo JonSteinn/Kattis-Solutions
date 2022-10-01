@@ -1,0 +1,1 @@
+print("\n".join((" ".join(str(int(input().replace(" ", "")) + int(input().replace(" ", "")))) for _ in range(int(input())))))
