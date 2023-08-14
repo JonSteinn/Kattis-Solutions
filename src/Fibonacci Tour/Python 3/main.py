@@ -1,10 +1,11 @@
 from collections import defaultdict
 
+# Generate Fibonacci numbers less than or equal to n
 def gen_all_fibs_less_or_equal_than(n):
     fibs = {}
-    a,b,c = 1,1,1
+    a, b, c = 1, 1, 1
     while True:
-        c = a+b
+        c = a + b
         if c > n:
             break
         fibs[b] = c
@@ -13,25 +14,27 @@ def gen_all_fibs_less_or_equal_than(n):
     fibs[b] = None
     return fibs
 
+# Filter vertices based on whether they are Fibonacci numbers
 def filter_vertices(all_fibs):
     V, vertices = 0, {}
-    for i,v in enumerate(map(int, input().split())):
+    for i, v in enumerate(map(int, input().split())):
         if v in all_fibs:
             vertices[i] = v
             V += 1
-    return V,vertices
+    return V, vertices
 
+# Filter edges and process sinks and ones
 def filter_edges(m, vertices, all_fibs):
-    E,edges,sinks,ones = 0,defaultdict(set),set(vertices.keys()),defaultdict(lambda: [False, set()])
+    E, edges, sinks, ones = 0, defaultdict(set), set(vertices.keys()), defaultdict(lambda: [False, set()])
     for _ in range(m):
-        u,v = map(int,input().split())
-        u,v = u-1,v-1
+        u, v = map(int, input().split())
+        u, v = u - 1, v - 1
         if u in vertices and v in vertices:
-            a,b = vertices[u], vertices[v]
+            a, b = vertices[u], vertices[v]
             if a > b:
-                t1,t2 = a,u
-                a,u = b,v
-                b,v = t1,t2
+                t1, t2 = a, u
+                a, u = b, v
+                b, v = t1, t2
             if a == b == 1:
                 edges[u].add(v)
                 edges[v].add(u)
@@ -48,15 +51,16 @@ def filter_edges(m, vertices, all_fibs):
         if next_is_not_sink:
             for one in prevs:
                 sinks.discard(one)
-    return E,edges,sinks
+    return E, edges, sinks
 
-def find_longest_path(V,vertices,E,edges, sinks):
+# Find the longest path in the graph
+def find_longest_path(V, vertices, E, edges, sinks):
     longest = -1
     visited = set()
     for s in sorted(sinks, key=lambda z: vertices[z], reverse=True):
-        stack = [(s,1)]
+        stack = [(s, 1)]
         while stack:
-            curr,d = stack.pop()
+            curr, d = stack.pop()
             if curr in visited:
                 continue
             if vertices[curr] == 1:
@@ -66,28 +70,28 @@ def find_longest_path(V,vertices,E,edges, sinks):
                         can_reach_another = True
                         break
                 if can_reach_another:
-                    longest = max(longest, d+1)
+                    longest = max(longest, d + 1)
                 else:
                     longest = max(longest, d)
             else:
                 longest = max(longest, d)
                 for w in edges[curr]:
-                    stack.append((w,d+1))
+                    stack.append((w, d + 1))
             visited.add(curr)
     return longest
 
 def main():
-    _,m = map(int,input().split())
+    _, m = map(int, input().split())
     all_fibs = gen_all_fibs_less_or_equal_than(10**18)
-    V,vertices = filter_vertices(all_fibs)
-    E,edges,sinks = filter_edges(m, vertices, all_fibs)
+    V, vertices = filter_vertices(all_fibs)
+    E, edges, sinks = filter_edges(m, vertices, all_fibs)
     
     if V == 0:
         print(0)
     elif V == 1 or E == 0:
         print(1)
     else:
-        print(find_longest_path(V,vertices,E,edges,sinks))
+        print(find_longest_path(V, vertices, E, edges, sinks))
 
 if __name__ == "__main__":
     main()
